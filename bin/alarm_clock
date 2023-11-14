@@ -5,6 +5,8 @@ require_relative '../lib/alarm_clock/domain/display'
 require_relative '../lib/alarm_clock/domain/sound'
 require_relative '../lib/alarm_clock/infrastructure/language/spanish/spanish'
 require_relative '../lib/alarm_clock/infrastructure/language/spanish/spanish_language'
+require_relative '../lib/alarm_clock/infrastructure/language/english/english'
+require_relative '../lib/alarm_clock/infrastructure/language/english/english_language'
 require_relative '../lib/alarm_clock/infrastructure/bus/resolver'
 require_relative '../lib/alarm_clock/infrastructure/bus/command_bus'
 require_relative '../lib/alarm_clock/application/good_morning_command'
@@ -18,12 +20,12 @@ require_relative '../lib/alarm_clock/alarm_clock'
 display = Display.new
 sound = Sound.new
 
-spanish = Spanish.new
-spanish_language = SpanishLanguage.new(spanish)
+# spanish_language = SpanishLanguage.new(Spanish.new)
+english_language = EnglishLanguage.new(English.new)
 
 resolver = Resolver.new
-resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, spanish_language))
-resolver.register('GoodNightCommand', GoodNightHandler.new(display, spanish_language))
+resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, english_language))
+resolver.register('GoodNightCommand', GoodNightHandler.new(display, english_language))
 resolver.register('PlayAlarmCommand', PlayAlarmHandler.new(sound))
 resolver.register('PlayBeepCommand', PlayBeepHandler.new(sound))
 resolver.register('ShowTimeCommand', ShowTimeHandler.new(display))
