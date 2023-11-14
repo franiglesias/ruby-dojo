@@ -28,7 +28,7 @@ resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, english_
 resolver.register('GoodNightCommand', GoodNightHandler.new(display, english_language))
 resolver.register('PlayAlarmCommand', PlayAlarmHandler.new(sound))
 resolver.register('PlayBeepCommand', PlayBeepHandler.new(sound))
-resolver.register('ShowTimeCommand', ShowTimeHandler.new(display))
+resolver.register('ShowTimeCommand', EmojiShowTimeHandler.new(display))
 
 command_bus = CommandBus.new(resolver)
 
