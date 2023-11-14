@@ -16,19 +16,32 @@ require_relative '../lib/alarm_clock/application/play_beep_command'
 require_relative '../lib/alarm_clock/application/show_time_command'
 require_relative '../lib/alarm_clock/alarm_clock'
 
-
 display = Display.new
 sound = Sound.new
 
-# spanish_language = SpanishLanguage.new(Spanish.new)
-english_language = EnglishLanguage.new(English.new)
+language_option = 'english'
+display_option = 'standard'
+
+language = case language_option
+           when 'spanish'
+             SpanishLanguage.new(Spanish.new)
+           when 'english'
+             EnglishLanguage.new(English.new)
+           end
+
+show_time_executor = case display_option
+                     when 'standard'
+                       ShowTimeHandler.new(display)
+                     when 'emoji'
+                       ShowTimeHandler.new(display)
+                     end
 
 resolver = Resolver.new
-resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, english_language))
-resolver.register('GoodNightCommand', GoodNightHandler.new(display, english_language))
+resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, language))
+resolver.register('GoodNightCommand', GoodNightHandler.new(display, language))
 resolver.register('PlayAlarmCommand', PlayAlarmHandler.new(sound))
 resolver.register('PlayBeepCommand', PlayBeepHandler.new(sound))
-resolver.register('ShowTimeCommand', EmojiShowTimeHandler.new(display))
+resolver.register('ShowTimeCommand', show_time_executor)
 
 command_bus = CommandBus.new(resolver)
 
