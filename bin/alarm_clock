@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require_relative '../lib/alarm_clock/domain/display'
+require_relative '../lib/alarm_clock/domain/sound'
+require_relative '../lib/alarm_clock/infrastructure/language/spanish/spanish'
+require_relative '../lib/alarm_clock/infrastructure/language/spanish/spanish_language'
+require_relative '../lib/alarm_clock/infrastructure/bus/resolver'
+require_relative '../lib/alarm_clock/infrastructure/bus/command_bus'
+require_relative '../lib/alarm_clock/application/good_morning_command'
+require_relative '../lib/alarm_clock/application/good_night_command'
+require_relative '../lib/alarm_clock/application/play_alarm_command'
+require_relative '../lib/alarm_clock/application/play_beep_command'
+require_relative '../lib/alarm_clock/application/show_time_command'
+require_relative '../lib/alarm_clock/alarm_clock'
+
+
+display = Display.new
+sound = Sound.new
+
+spanish = Spanish.new
+spanish_language = SpanishLanguage.new(spanish)
+
+resolver = Resolver.new
+resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, spanish_language))
+resolver.register('GoodNightCommand', GoodNightHandler.new(display, spanish_language))
+resolver.register('PlayAlarmCommand', PlayAlarmHandler.new(sound))
+resolver.register('PlayBeepCommand', PlayBeepHandler.new(sound))
+resolver.register('ShowTimeCommand', ShowTimeHandler.new(display))
+
+command_bus = CommandBus.new(resolver)
+
+clock = AlarmClock.new(command_bus, 7, 22)
+clock.run
