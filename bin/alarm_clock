@@ -11,6 +11,7 @@ require_relative '../lib/alarm_clock/infrastructure/bus/resolver'
 require_relative '../lib/alarm_clock/infrastructure/bus/command_bus'
 require_relative '../lib/alarm_clock/infrastructure/bus/command_logger_middleware'
 require_relative '../lib/alarm_clock/infrastructure/bus/error_logger_middleware'
+require_relative '../lib/alarm_clock/infrastructure/bus/dry_run_middleware'
 require_relative '../lib/alarm_clock/application/good_morning_command'
 require_relative '../lib/alarm_clock/application/good_night_command'
 require_relative '../lib/alarm_clock/application/play_alarm_command'
@@ -43,12 +44,16 @@ resolver.register('GoodMorningCommand', GoodMorningHandler.new(display, language
 resolver.register('GoodNightCommand', GoodNightHandler.new(display, language))
 resolver.register('PlayAlarmCommand', PlayAlarmHandler.new(sound))
 resolver.register('PlayBeepCommand', PlayBeepHandler.new(sound))
-resolver.register('ShowTimeCommand', PlayBeepHandler.new(sound))
+resolver.register('ShowTimeCommand', show_time_executor)
 
-logger = CommandLoggerMiddleware.new
-errors = ErrorLoggerMiddleware.new
+middlewares =
+  CommandLoggerMiddleware.new(
+    ErrorLoggerMiddleware.new(
+      DryRunMiddleware.new(false)
+    )
+  )
 
-command_bus = CommandBus.new(resolver, errors)
+command_bus = CommandBus.new(resolver, middlewares)
 
 clock = AlarmClock.new(command_bus, 7, 22)
 clock.run
