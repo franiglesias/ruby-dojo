@@ -1,3 +1,5 @@
+require_relative '../../lib/alarm_clock/domain/clock'
+
 class AlarmClock
   def initialize(command_bus, awake_at, sleep_at)
     @command_bus = command_bus
@@ -6,17 +8,8 @@ class AlarmClock
   end
 
   def run
-    24.times do |hour|
-      case hour
-      when @awake_at
-        @command_bus.execute(GoodMorningCommand.new(hour))
-        @command_bus.execute(PlayAlarmCommand.new(hour))
-      when @sleep_at
-        @command_bus.execute(GoodNightCommand.new(hour))
-      else
-        @command_bus.execute(ShowTimeCommand.new(hour))
-        @command_bus.execute(PlayBeepCommand.new(hour))
-      end
+    loop do
+      @command_bus.execute(TickCommand.new(@awake_at, @sleep_at))
     end
   end
 end

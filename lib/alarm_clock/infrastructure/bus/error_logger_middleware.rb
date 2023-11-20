@@ -9,8 +9,6 @@ class ErrorLoggerMiddleware < Middleware
       handle(command, bus)
     rescue => e
       log.write("#{Time.now.strftime("%Y-%m-%d %H:%M:%S")}: #{command.class.name} error: #{e.class.name} with message #{e.message}\n")
-    else
-      log.write("#{Time.now.strftime("%Y-%m-%d %H:%M:%S")}: #{command.class.name} OK\n")
     end
     log.close
   end

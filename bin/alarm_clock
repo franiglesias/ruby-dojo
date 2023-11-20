@@ -3,20 +3,30 @@
 
 require_relative '../lib/alarm_clock/domain/display'
 require_relative '../lib/alarm_clock/domain/sound'
+require_relative '../lib/alarm_clock/domain/clock_repository'
 require_relative '../lib/alarm_clock/infrastructure/language/spanish/spanish'
 require_relative '../lib/alarm_clock/infrastructure/language/spanish/spanish_language'
 require_relative '../lib/alarm_clock/infrastructure/language/english/english'
 require_relative '../lib/alarm_clock/infrastructure/language/english/english_language'
 require_relative '../lib/alarm_clock/infrastructure/bus/resolver'
+require_relative '../lib/alarm_clock/infrastructure/bus/listener_resolver'
 require_relative '../lib/alarm_clock/infrastructure/bus/command_bus'
+require_relative '../lib/alarm_clock/infrastructure/bus/event_bus'
 require_relative '../lib/alarm_clock/infrastructure/bus/command_logger_middleware'
 require_relative '../lib/alarm_clock/infrastructure/bus/error_logger_middleware'
 require_relative '../lib/alarm_clock/infrastructure/bus/dry_run_middleware'
+require_relative '../lib/alarm_clock/infrastructure/memory_storage'
 require_relative '../lib/alarm_clock/application/good_morning_command'
+require_relative '../lib/alarm_clock/application/good_morning_listener'
 require_relative '../lib/alarm_clock/application/good_night_command'
+require_relative '../lib/alarm_clock/application/good_night_listener'
 require_relative '../lib/alarm_clock/application/play_alarm_command'
 require_relative '../lib/alarm_clock/application/play_beep_command'
+require_relative '../lib/alarm_clock/application/play_beep_listener'
 require_relative '../lib/alarm_clock/application/show_time_command'
+require_relative '../lib/alarm_clock/application/show_time_listener'
+require_relative '../lib/alarm_clock/application/play_alarm_listener'
+require_relative '../lib/alarm_clock/application/tick_command'
 require_relative '../lib/alarm_clock/alarm_clock'
 
 display = Display.new
@@ -46,6 +56,7 @@ resolver.register('PlayAlarmCommand', PlayAlarmHandler.new(sound))
 resolver.register('PlayBeepCommand', PlayBeepHandler.new(sound))
 resolver.register('ShowTimeCommand', show_time_executor)
 
+
 middlewares =
   CommandLoggerMiddleware.new(
     ErrorLoggerMiddleware.new(
@@ -53,6 +64,20 @@ middlewares =
     )
   )
 
+
+listener_resolver = ListenerResolver.new
+listener_resolver.register('DotHourReached', ShowTimeListener.new(display))
+listener_resolver.register('DotHourReached', PlayBeepListener.new(sound))
+listener_resolver.register('AwakeHourReached', GoodMorningListener.new(display, language))
+listener_resolver.register('AwakeHourReached', PlayAlarmListener.new(sound))
+listener_resolver.register('BedTimeHourReached', GoodNightListener.new(display, language))
+
+event_bus = EventBus.new(listener_resolver, middlewares)
+
+repository = ClockRepository.new(MemoryStorage.new)
+tickCommandHandler = TickCommandHandler.new(repository, event_bus)
+
+resolver.register('TickCommand', tickCommandHandler)
 command_bus = CommandBus.new(resolver, middlewares)
 
 clock = AlarmClock.new(command_bus, 7, 22)
