@@ -15,7 +15,7 @@ require_relative '../lib/alarm_clock/infrastructure/bus/event_bus'
 require_relative '../lib/alarm_clock/infrastructure/bus/command_logger_middleware'
 require_relative '../lib/alarm_clock/infrastructure/bus/error_logger_middleware'
 require_relative '../lib/alarm_clock/infrastructure/bus/dry_run_middleware'
-require_relative '../lib/alarm_clock/infrastructure/memory_storage'
+require_relative '../lib/alarm_clock/infrastructure/persistence/memory_storage'
 require_relative '../lib/alarm_clock/application/good_morning_command'
 require_relative '../lib/alarm_clock/application/good_morning_listener'
 require_relative '../lib/alarm_clock/application/good_night_command'
@@ -27,7 +27,7 @@ require_relative '../lib/alarm_clock/application/show_time_command'
 require_relative '../lib/alarm_clock/application/show_time_listener'
 require_relative '../lib/alarm_clock/application/play_alarm_listener'
 require_relative '../lib/alarm_clock/application/tick_command'
-require_relative '../lib/alarm_clock/alarm_clock'
+require_relative '../lib/alarm_clock/infrastructure/entry_point/alarm_clock'
 
 display = Display.new
 sound = Sound.new

@@ -1,4 +1,4 @@
-require_relative '../../lib/alarm_clock/domain/clock'
+# frozen_string_literal: true
 
 class AlarmClock
   def initialize(command_bus, awake_at, sleep_at)
