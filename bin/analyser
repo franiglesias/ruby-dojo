@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require_relative '../lib/energy/consumption_analyzer'
+
+deviation = ARGV[0].to_f
+deviation = 1.4 if deviation.zero?
+
+a = ConsumptionAnalyzer.new
+a.execute('../sample.csv', deviation)
