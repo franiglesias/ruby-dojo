@@ -14,11 +14,10 @@ class ConsumptionAnalyzer
 
     def execute(file_name, deviation_factor = 1.4)
         data = obtain_readings(file_name)
-
         normalized = normalize(data)
-
-        offices = offices(data)
+        offices = offices(normalized)
         outliers = outliers(deviation_factor, offices)
+
         puts outliers
         puts "Data sample #{data.size} rows"
         puts "Found #{outliers.size} outliers"
@@ -58,11 +57,11 @@ class ConsumptionAnalyzer
         offices = {}
         consumptions = []
         data.each do |row|
-            consumptions.append(row["consumption"])
+            consumptions.append(row.consumption)
 
             next if consumptions.size < CONSUMPTIONS_A_YEAR
 
-            officeId = "#{row["office"]}-#{row["year"]}"
+            officeId = "#{row.office}-#{row.year}"
             offices[officeId] = consumptions
             consumptions = []
         end
