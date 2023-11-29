@@ -15,12 +15,15 @@ class ConsumptionAnalyzer
     data = obtain_readings(file_name)
     consumptions = []
     outliers = []
-    offices = []
+    offices = {}
     data.each do |row|
       consumptions.append(row["consumption"])
 
       next if consumptions.size < CONSUMPTIONS_A_YEAR
-      offices.append(consumptions)
+
+      officeId = row["office"]
+      offices[officeId] = consumptions
+
       average = average(consumptions)
       standard_deviation = standard_deviation(consumptions)
 
@@ -31,7 +34,7 @@ class ConsumptionAnalyzer
         next unless difference > boundary
 
         outlier = Outlier.new
-        outlier.office = row["office"]
+        outlier.office = officeId
         outlier.consumption = consumption
         outlier.deviation = (consumption - average) / standard_deviation
 
@@ -41,7 +44,7 @@ class ConsumptionAnalyzer
       consumptions = []
     end
     
-    offices.each do | consumptions|
+    offices.each do | officeId, consumptions|
 
     end
     
