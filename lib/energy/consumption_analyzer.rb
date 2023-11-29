@@ -11,22 +11,17 @@ class ConsumptionAnalyzer
     CONSUMPTIONS_A_YEAR = 12
 
     def execute(file_name, deviation_factor = 1.4)
-
         data = obtain_readings(file_name)
-        consumptions = []
+        offices = offices(data)
+        outliers = outliers(deviation_factor, offices)
+        puts outliers
+        puts "Data sample #{data.size} rows"
+        puts "Found #{outliers.size} outliers"
+        puts "Found #{outliers.size / 300} per office"
+    end
+
+    def outliers(deviation_factor, offices)
         outliers = []
-        offices = {}
-        data.each do |row|
-            consumptions.append(row["consumption"])
-
-            next if consumptions.size < CONSUMPTIONS_A_YEAR
-
-            officeId = "#{row["office"]}-#{row["year"]}"
-            offices[officeId] = consumptions
-
-            consumptions = []
-        end
-
         offices.each do |officeId, consumptions|
             average = average(consumptions)
             standard_deviation = standard_deviation(consumptions)
@@ -45,11 +40,22 @@ class ConsumptionAnalyzer
                 outliers.append(outlier)
             end
         end
+        outliers
+    end
 
-        puts outliers
-        puts "Data sample #{data.size} rows"
-        puts "Found #{outliers.size} outliers"
-        puts "Found #{outliers.size / 300} per office"
+    def offices(data)
+        offices = {}
+        consumptions = []
+        data.each do |row|
+            consumptions.append(row["consumption"])
+
+            next if consumptions.size < CONSUMPTIONS_A_YEAR
+
+            officeId = "#{row["office"]}-#{row["year"]}"
+            offices[officeId] = consumptions
+            consumptions = []
+        end
+        offices
     end
 
     def obtain_readings(file_name)
