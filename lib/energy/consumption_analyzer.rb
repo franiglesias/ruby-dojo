@@ -43,7 +43,7 @@ class ConsumptionAnalyzer
                 next unless difference > boundary
 
                 outlier = Outlier.new
-                outlier.office = office_id.split('-')[0].to_i
+                outlier.office = office_id
                 outlier.consumption = consumption
                 outlier.deviation = (consumption - average) / standard_deviation
 
@@ -62,8 +62,6 @@ class ConsumptionAnalyzer
         end
         offices
     end
-
-
 
     def standard_deviation(consumptions)
         Math.sqrt(variance(consumptions))
