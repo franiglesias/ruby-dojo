@@ -21,7 +21,7 @@ class ConsumptionAnalyzer
         puts outliers
         puts "Data sample #{data.size} rows"
         puts "Found #{outliers.size} outliers"
-        puts "Found #{outliers.size / 300} per office"
+        puts "Found #{outliers.size / offices.size} per office"
     end
 
     def normalize(data)
@@ -32,7 +32,7 @@ class ConsumptionAnalyzer
 
     def outliers(deviation_factor, offices)
         outliers = []
-        offices.each do |officeId, consumptions|
+        offices.each do |office_id, consumptions|
             average = average(consumptions)
             standard_deviation = standard_deviation(consumptions)
 
@@ -43,7 +43,7 @@ class ConsumptionAnalyzer
                 next unless difference > boundary
 
                 outlier = Outlier.new
-                outlier.office = officeId.split('-')[0].to_i
+                outlier.office = office_id.split('-')[0].to_i
                 outlier.consumption = consumption
                 outlier.deviation = (consumption - average) / standard_deviation
 
@@ -55,15 +55,12 @@ class ConsumptionAnalyzer
 
     def offices(data)
         offices = {}
-        consumptions = []
         data.each do |row|
-            consumptions.append(row.consumption)
-
-            next if consumptions.size < CONSUMPTIONS_A_YEAR
-
-            officeId = "#{row.office}-#{row.year}"
-            offices[officeId] = consumptions
-            consumptions = []
+            office_id = "#{row.office}"
+            unless offices.key? office_id
+                offices[office_id] = []
+            end
+            offices[office_id].append(row.consumption)
         end
         offices
     end
