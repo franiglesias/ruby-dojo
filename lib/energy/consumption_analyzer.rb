@@ -14,12 +14,21 @@ class ConsumptionAnalyzer
 
     def execute(file_name, deviation_factor = 1.4)
         data = obtain_readings(file_name)
+
+        normalized = normalize(data)
+
         offices = offices(data)
         outliers = outliers(deviation_factor, offices)
         puts outliers
         puts "Data sample #{data.size} rows"
         puts "Found #{outliers.size} outliers"
         puts "Found #{outliers.size / 300} per office"
+    end
+
+    def normalize(data)
+        data.map do |row|
+            Consumption.new(row["office"], row["year"], row["month"], row["consumption"])
+        end
     end
 
     def outliers(deviation_factor, offices)
