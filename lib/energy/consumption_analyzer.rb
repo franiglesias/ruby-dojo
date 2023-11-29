@@ -57,9 +57,7 @@ class ConsumptionAnalyzer
         offices = {}
         data.each do |row|
             office_id = "#{row.office}"
-            unless offices.key? office_id
-                offices[office_id] = []
-            end
+            offices[office_id] = [] unless offices.key? office_id
             offices[office_id].append(row.consumption)
         end
         offices
