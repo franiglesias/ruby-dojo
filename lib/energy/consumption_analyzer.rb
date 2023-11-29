@@ -15,11 +15,12 @@ class ConsumptionAnalyzer
     data = obtain_readings(file_name)
     consumptions = []
     outliers = []
+    offices = []
     data.each do |row|
       consumptions.append(row["consumption"])
 
       next if consumptions.size < CONSUMPTIONS_A_YEAR
-
+      offices.append(consumptions)
       average = average(consumptions)
       standard_deviation = standard_deviation(consumptions)
 
@@ -39,6 +40,11 @@ class ConsumptionAnalyzer
 
       consumptions = []
     end
+    
+    offices.each do | consumptions|
+
+    end
+    
     puts outliers
     puts "Data sample #{data.size} rows"
     puts "Found #{outliers.size} outliers"
