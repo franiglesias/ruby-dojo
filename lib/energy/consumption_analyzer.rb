@@ -13,18 +13,18 @@ class ConsumptionAnalyzer
     CONSUMPTIONS_A_YEAR = 12
 
     def execute(file_name, deviation_factor = 1.4)
-        data = obtain_readings(file_name)
-        normalized = normalize(data)
+        normalized = obtain_consumptions(file_name)
         offices = offices(normalized)
         outliers = outliers(deviation_factor, offices)
 
         puts outliers
-        puts "Data sample #{data.size} rows"
+        puts "Data sample #{normalized.size} rows"
         puts "Found #{outliers.size} outliers"
         puts "Found #{outliers.size / offices.size} per office"
     end
 
-    def normalize(data)
+    def obtain_consumptions(file_name)
+        data = CSV.parse(File.read(file_name), headers: true, converters: :numeric)
         data.map do |row|
             Consumption.new(row["office"], row["year"], row["month"], row["consumption"])
         end
@@ -63,9 +63,7 @@ class ConsumptionAnalyzer
         offices
     end
 
-    def obtain_readings(file_name)
-        CSV.parse(File.read(file_name), headers: true, converters: :numeric)
-    end
+
 
     def standard_deviation(consumptions)
         Math.sqrt(variance(consumptions))
