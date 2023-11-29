@@ -3,6 +3,8 @@ require "csv"
 
 Outlier = Struct.new(:office, :consumption, :deviation)
 
+Consumption = Struct.new(:office, :year, :date, :consumption)
+
 class ConsumptionAnalyzer
     def initialize
 
