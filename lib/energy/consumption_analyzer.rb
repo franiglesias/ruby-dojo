@@ -21,7 +21,7 @@ class ConsumptionAnalyzer
 
       next if consumptions.size < CONSUMPTIONS_A_YEAR
 
-      officeId = row["office"]
+      officeId = "#{row["office"]}-#{row["year"]}"
       offices[officeId] = consumptions
 
       average = average(consumptions)
@@ -34,7 +34,7 @@ class ConsumptionAnalyzer
         next unless difference > boundary
 
         outlier = Outlier.new
-        outlier.office = officeId
+        outlier.office = officeId.split('-')[0].to_i
         outlier.consumption = consumption
         outlier.deviation = (consumption - average) / standard_deviation
 
