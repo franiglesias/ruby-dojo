@@ -1,18 +1,15 @@
 # frozen_string_literal: true
 require "csv"
 require_relative 'csv_consumptions_provider'
+require_relative 'consumptions_provider'
 
 Outlier = Struct.new(:office, :consumption, :deviation)
 
 Consumption = Struct.new(:office, :year, :date, :consumption)
 
 class ConsumptionAnalyzer
-    def initialize(provider = nil)
-        if provider.nil?
-            @provider = CsvConsumptionsProvider.new
-        else
-            @provider = provider
-        end
+    def initialize(provider = ConsumptionsProvider.new)
+        @provider = provider
     end
 
     CONSUMPTIONS_A_YEAR = 12
