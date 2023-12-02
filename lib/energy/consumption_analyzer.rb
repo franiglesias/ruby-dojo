@@ -1,19 +1,24 @@
 # frozen_string_literal: true
 require "csv"
+require_relative 'csv_consumptions_provider'
 
 Outlier = Struct.new(:office, :consumption, :deviation)
 
 Consumption = Struct.new(:office, :year, :date, :consumption)
 
 class ConsumptionAnalyzer
-    def initialize
-
+    def initialize(provider = nil)
+        if provider.nil?
+            @provider = CsvConsumptionsProvider.new
+        else
+            @provider = provider
+        end
     end
 
     CONSUMPTIONS_A_YEAR = 12
 
     def execute(file_name, deviation_factor = 1.4)
-        normalized = obtain_consumptions(file_name)
+        normalized = @provider.from_file(file_name)
         offices = offices(normalized)
         outliers = outliers(deviation_factor, offices)
 
@@ -21,13 +26,6 @@ class ConsumptionAnalyzer
         puts "Data sample #{normalized.size} rows"
         puts "Found #{outliers.size} outliers"
         puts "Found #{outliers.size / offices.size} per office"
-    end
-
-    def obtain_consumptions(file_name)
-        data = CSV.parse(File.read(file_name), headers: true, converters: :numeric)
-        data.map do |row|
-            Consumption.new(row["office"], row["year"], row["month"], row["consumption"])
-        end
     end
 
     def outliers(deviation_factor, offices)
