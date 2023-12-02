@@ -5,7 +5,7 @@ require_relative 'consumptions_provider'
 
 Outlier = Struct.new(:office, :consumption, :deviation)
 
-Consumption = Struct.new(:office, :year, :date, :consumption)
+Consumption = Struct.new(:office, :year, :month, :consumption)
 
 class ConsumptionAnalyzer
     def initialize(provider = ConsumptionsProvider.new)

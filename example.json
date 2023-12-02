@@ -1,0 +1,74 @@
+[
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 1,
+    "consumption": 8379097
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 2,
+    "consumption": 9539936
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2025802
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 4,
+    "consumption": 1398801
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6572861
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 6,
+    "consumption": 7942753
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 7,
+    "consumption": 2569213
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4575579
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5742751
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6769903
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 11,
+    "consumption": 6564423
+  },
+  {
+    "office": 1,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2062790
+  }
+]

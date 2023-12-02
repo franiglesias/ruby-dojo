@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 require "csv"
+require 'json'
+
 ConsumptionRow = Struct.new(:office, :year, :month, :consumption)
 
 class DataGenerator
@@ -28,18 +30,34 @@ class DataGenerator
       end
     end
 
-    # films_info is an array of CSV objects
     headers = ['office', 'year', 'month', 'consumption']
-    CSV.open(@file_name, "w") do |csv|
+    CSV.open("#{@file_name}.csv", "w") do |csv|
       csv << headers
       data.each do |row|
         csv << row
       end
+    end
+
+
+    File.open("#{@file_name}.json","w") do |f|
+      all = []
+      data.each do |row|
+        h = {
+          "office": row.office,
+          "year": row.year,
+          "month": row.month,
+          "consumption": row.consumption
+        }
+        all.append(h)
+      end
+      f.write(JSON.pretty_generate(all))
+
+      f.close
     end
   end
 end
 
 
 
-g = DataGenerator.new(300, 5, "sample.csv")
+g = DataGenerator.new(1, 1, "another")
 g.generate
