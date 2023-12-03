@@ -14,8 +14,8 @@ class ConsumptionAnalyzer
 
     CONSUMPTIONS_A_YEAR = 12
 
-    def execute(file_name, deviation_factor = 1.4)
-        normalized = @provider.from_file(file_name)
+    def execute(deviation_factor, *files)
+        normalized = @provider.from_file(*files)
         offices = offices(normalized)
         outliers = outliers(deviation_factor, offices)
 

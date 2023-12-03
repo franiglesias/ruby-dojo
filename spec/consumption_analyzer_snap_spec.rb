@@ -10,7 +10,7 @@ RSpec.describe 'Consumer Analyzer' do
     context "Default behaviour" do
         it "should generate report" do
             a = ConsumptionAnalyzer.new
-            result = capture_stdout {a.execute('sample.csv', 1.4)}
+            result = capture_stdout {a.execute( 1.4, 'sample.csv')}
             expect(result).to match_snapshot('default_snapshot')
         end
     end

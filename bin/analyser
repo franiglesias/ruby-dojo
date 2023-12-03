@@ -7,4 +7,4 @@ deviation = ARGV[0].to_f
 deviation = 1.4 if deviation.zero?
 
 a = ConsumptionAnalyzer.new
-a.execute('../sample.csv', deviation)
+a.execute(deviation, '../sample.csv')
