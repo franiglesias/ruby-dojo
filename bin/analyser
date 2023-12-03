@@ -6,5 +6,11 @@ require_relative '../lib/energy/consumption_analyzer'
 deviation = ARGV[0].to_f
 deviation = 1.4 if deviation.zero?
 
-a = ConsumptionAnalyzer.new
+factory = ProviderFactory.new
+factory.register(".csv", CsvConsumptionsProvider.new)
+factory.register(".json", JsonConsumptionsProvider.new)
+
+provider = ConsumptionsProvider.new(factory)
+
+a = ConsumptionAnalyzer.new(provider)
 a.execute(deviation, '../sample.csv')

@@ -9,7 +9,7 @@ require_relative '../lib/energy/consumption_analyzer'
 RSpec.describe 'Consumer Analyzer' do
     context "Default behaviour" do
         it "should generate report" do
-            a = ConsumptionAnalyzer.new
+            a = build_analyzer
             result = capture_stdout {a.execute( 1.4, 'sample.csv')}
             expect(result).to match_snapshot('default_snapshot')
         end
@@ -17,11 +17,21 @@ RSpec.describe 'Consumer Analyzer' do
 
     context "Two sources" do
         it "should generate mixed report" do
-            a = ConsumptionAnalyzer.new
+            a = build_analyzer
             result = capture_stdout {a.execute( 1.4, 'sample.csv', 'sample_2.json')}
             expect(result).to match_snapshot('two_sources')
         end
     end
+end
+
+def build_analyzer
+    factory = ProviderFactory.new
+    factory.register(".csv", CsvConsumptionsProvider.new)
+    factory.register(".json", JsonConsumptionsProvider.new)
+
+    provider = ConsumptionsProvider.new(factory)
+
+    ConsumptionAnalyzer.new(provider)
 end
 
 def capture_stdout
