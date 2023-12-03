@@ -1,10 +1,10 @@
 # frozen_string_literal: true
-require_relative 'json_consumptions_provider'
-require_relative 'csv_consumptions_provider'
+
+require_relative 'provider_factory'
 
 class ConsumptionsProvider
-    def initialize
-
+    def initialize(factory = ProviderFactory.new)
+        @factory = factory
     end
     def from_file(*file_names)
         data = []
@@ -15,15 +15,11 @@ class ConsumptionsProvider
     end
 
     def read_file(file_name)
-        extension = File.extname(file_name)
-        if extension == ".csv"
-            provider = CsvConsumptionsProvider.new
-            return provider.from_file(file_name)
-        end
-        if extension == ".json"
-            provider = JsonConsumptionsProvider.new
-            return provider.from_file(file_name)
-        end
-        raise NotImplementedError.new, "#{extension} file support not implemented"
+        provider = select_provider(file_name)
+        provider.from_file(file_name)
+    end
+
+    def select_provider(file_name)
+        @factory.make_provider(file_name)
     end
 end
