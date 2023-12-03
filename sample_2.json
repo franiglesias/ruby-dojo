@@ -1,0 +1,10802 @@
+[
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 1,
+    "consumption": 61638172
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 2,
+    "consumption": 38574507
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 3,
+    "consumption": 91633307
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 4,
+    "consumption": 28682152
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 5,
+    "consumption": 94550574
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 6,
+    "consumption": 66749170
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 7,
+    "consumption": 57002506
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 8,
+    "consumption": 27827771
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 9,
+    "consumption": 48841568
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 10,
+    "consumption": 20423252
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 11,
+    "consumption": 31638153
+  },
+  {
+    "office": 301,
+    "year": 2023,
+    "month": 12,
+    "consumption": 30440415
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 1,
+    "consumption": 938559
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 2,
+    "consumption": 821834
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 3,
+    "consumption": 742148
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 4,
+    "consumption": 881063
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 5,
+    "consumption": 660076
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 6,
+    "consumption": 341320
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 7,
+    "consumption": 709961
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 8,
+    "consumption": 879390
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 9,
+    "consumption": 961465
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 10,
+    "consumption": 744361
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 11,
+    "consumption": 407155
+  },
+  {
+    "office": 302,
+    "year": 2023,
+    "month": 12,
+    "consumption": 643217
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 1,
+    "consumption": 67207
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 2,
+    "consumption": 31406216
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 3,
+    "consumption": 89187335
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 4,
+    "consumption": 11302662
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 5,
+    "consumption": 49079102
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 6,
+    "consumption": 99655139
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 7,
+    "consumption": 27067305
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3510049
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 9,
+    "consumption": 2794499
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 10,
+    "consumption": 67777313
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 11,
+    "consumption": 83805424
+  },
+  {
+    "office": 303,
+    "year": 2023,
+    "month": 12,
+    "consumption": 37140110
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 1,
+    "consumption": 27677515
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 2,
+    "consumption": 28352353
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 3,
+    "consumption": 14401580
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 4,
+    "consumption": 17142327
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 5,
+    "consumption": 49144650
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 6,
+    "consumption": 40189421
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6415467
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 8,
+    "consumption": 57821892
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 9,
+    "consumption": 33025051
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 10,
+    "consumption": 63922938
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 11,
+    "consumption": 70790277
+  },
+  {
+    "office": 304,
+    "year": 2023,
+    "month": 12,
+    "consumption": 19266512
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 1,
+    "consumption": 1350537
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 2,
+    "consumption": 6525508
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 3,
+    "consumption": 1879510
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6308204
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 5,
+    "consumption": 1971319
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 6,
+    "consumption": 3162850
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 7,
+    "consumption": 869752
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 8,
+    "consumption": 9504440
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 9,
+    "consumption": 596449
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 10,
+    "consumption": 5218194
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 11,
+    "consumption": 4365563
+  },
+  {
+    "office": 305,
+    "year": 2023,
+    "month": 12,
+    "consumption": 585361
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9143248
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 2,
+    "consumption": 66169485
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 3,
+    "consumption": 33723037
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 4,
+    "consumption": 27011260
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 5,
+    "consumption": 68562853
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 6,
+    "consumption": 8803795
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 7,
+    "consumption": 51971442
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 8,
+    "consumption": 72335181
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 9,
+    "consumption": 51495060
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 10,
+    "consumption": 92182073
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 11,
+    "consumption": 20568354
+  },
+  {
+    "office": 306,
+    "year": 2023,
+    "month": 12,
+    "consumption": 76251206
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 1,
+    "consumption": 561048
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 2,
+    "consumption": 72753471
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 3,
+    "consumption": 85798572
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 4,
+    "consumption": 59265057
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 5,
+    "consumption": 53537513
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 6,
+    "consumption": 59264696
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 7,
+    "consumption": 86085752
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 8,
+    "consumption": 57867842
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 9,
+    "consumption": 58180916
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 10,
+    "consumption": 63471511
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 11,
+    "consumption": 79853359
+  },
+  {
+    "office": 307,
+    "year": 2023,
+    "month": 12,
+    "consumption": 16941064
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 1,
+    "consumption": 62702537
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 2,
+    "consumption": 84700498
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 3,
+    "consumption": 49836051
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 4,
+    "consumption": 87375649
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 5,
+    "consumption": 89545656
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 6,
+    "consumption": 54728839
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 7,
+    "consumption": 21839913
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 8,
+    "consumption": 49140198
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 9,
+    "consumption": 80740463
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 10,
+    "consumption": 68585534
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 11,
+    "consumption": 16366569
+  },
+  {
+    "office": 308,
+    "year": 2023,
+    "month": 12,
+    "consumption": 84528958
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 1,
+    "consumption": 8246765
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8730841
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 3,
+    "consumption": 626444
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 4,
+    "consumption": 2306890
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6761394
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 6,
+    "consumption": 8797331
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 7,
+    "consumption": 1190864
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 8,
+    "consumption": 9764626
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 9,
+    "consumption": 7904044
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 10,
+    "consumption": 2050741
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 11,
+    "consumption": 1097814
+  },
+  {
+    "office": 309,
+    "year": 2023,
+    "month": 12,
+    "consumption": 61385
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 1,
+    "consumption": 5169481
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7124207
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 3,
+    "consumption": 636520
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6575745
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6075584
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 6,
+    "consumption": 6240904
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 7,
+    "consumption": 2503696
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3755332
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9358913
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 10,
+    "consumption": 558154
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5758129
+  },
+  {
+    "office": 310,
+    "year": 2023,
+    "month": 12,
+    "consumption": 6673335
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 1,
+    "consumption": 720478
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 2,
+    "consumption": 244993
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 3,
+    "consumption": 708375
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 4,
+    "consumption": 868843
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 5,
+    "consumption": 199651
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 6,
+    "consumption": 88293
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 7,
+    "consumption": 37670
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 8,
+    "consumption": 490021
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 9,
+    "consumption": 846334
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 10,
+    "consumption": 368871
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 11,
+    "consumption": 488166
+  },
+  {
+    "office": 311,
+    "year": 2023,
+    "month": 12,
+    "consumption": 743737
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 1,
+    "consumption": 100138
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 2,
+    "consumption": 271028
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 3,
+    "consumption": 182630
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 4,
+    "consumption": 172183
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 5,
+    "consumption": 183158
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 6,
+    "consumption": 861255
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 7,
+    "consumption": 609039
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 8,
+    "consumption": 748545
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 9,
+    "consumption": 321233
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 10,
+    "consumption": 583418
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 11,
+    "consumption": 211605
+  },
+  {
+    "office": 312,
+    "year": 2023,
+    "month": 12,
+    "consumption": 620379
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 1,
+    "consumption": 26901167
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 2,
+    "consumption": 41145073
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 3,
+    "consumption": 6224227
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 4,
+    "consumption": 75920910
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 5,
+    "consumption": 82032650
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 6,
+    "consumption": 90957643
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 7,
+    "consumption": 39135958
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 8,
+    "consumption": 22946596
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 9,
+    "consumption": 20649114
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 10,
+    "consumption": 78104150
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 11,
+    "consumption": 98722609
+  },
+  {
+    "office": 313,
+    "year": 2023,
+    "month": 12,
+    "consumption": 77119455
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3780928
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 2,
+    "consumption": 3522572
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 3,
+    "consumption": 6362451
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 4,
+    "consumption": 373659
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6287204
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 6,
+    "consumption": 7973623
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3104510
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3758572
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 9,
+    "consumption": 7613960
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6654203
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5371201
+  },
+  {
+    "office": 314,
+    "year": 2023,
+    "month": 12,
+    "consumption": 489623
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9444325
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 2,
+    "consumption": 1291511
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 3,
+    "consumption": 5504759
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 4,
+    "consumption": 727803
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 5,
+    "consumption": 5184063
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 6,
+    "consumption": 3880247
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3313639
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 8,
+    "consumption": 2074820
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 9,
+    "consumption": 3148643
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 10,
+    "consumption": 3926943
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 11,
+    "consumption": 6418538
+  },
+  {
+    "office": 315,
+    "year": 2023,
+    "month": 12,
+    "consumption": 8922492
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 1,
+    "consumption": 32488
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 2,
+    "consumption": 164911
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 3,
+    "consumption": 558754
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 4,
+    "consumption": 458668
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 5,
+    "consumption": 123683
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 6,
+    "consumption": 297408
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 7,
+    "consumption": 544433
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 8,
+    "consumption": 286075
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 9,
+    "consumption": 178863
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 10,
+    "consumption": 134162
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 11,
+    "consumption": 540220
+  },
+  {
+    "office": 316,
+    "year": 2023,
+    "month": 12,
+    "consumption": 946112
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 1,
+    "consumption": 143783
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 2,
+    "consumption": 146308
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 3,
+    "consumption": 111783
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 4,
+    "consumption": 891158
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 5,
+    "consumption": 427838
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 6,
+    "consumption": 226525
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 7,
+    "consumption": 915903
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 8,
+    "consumption": 334381
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 9,
+    "consumption": 679274
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 10,
+    "consumption": 699446
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 11,
+    "consumption": 152019
+  },
+  {
+    "office": 317,
+    "year": 2023,
+    "month": 12,
+    "consumption": 859733
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 1,
+    "consumption": 40165796
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 2,
+    "consumption": 97292897
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 3,
+    "consumption": 36312277
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 4,
+    "consumption": 77417333
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 5,
+    "consumption": 41207016
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 6,
+    "consumption": 41196637
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 7,
+    "consumption": 27701884
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 8,
+    "consumption": 61466891
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 9,
+    "consumption": 70775488
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 10,
+    "consumption": 68863819
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 11,
+    "consumption": 71762466
+  },
+  {
+    "office": 318,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4183397
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 1,
+    "consumption": 53063843
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 2,
+    "consumption": 28692793
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 3,
+    "consumption": 23731718
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 4,
+    "consumption": 33353687
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 5,
+    "consumption": 3513156
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 6,
+    "consumption": 91434888
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 7,
+    "consumption": 73088866
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 8,
+    "consumption": 88329215
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 9,
+    "consumption": 98713506
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 10,
+    "consumption": 11346737
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 11,
+    "consumption": 66949746
+  },
+  {
+    "office": 319,
+    "year": 2023,
+    "month": 12,
+    "consumption": 37525259
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 1,
+    "consumption": 58954508
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 2,
+    "consumption": 73793505
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 3,
+    "consumption": 19002667
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 4,
+    "consumption": 10222671
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 5,
+    "consumption": 16243826
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 6,
+    "consumption": 50376207
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 7,
+    "consumption": 64068977
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 8,
+    "consumption": 32259719
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 9,
+    "consumption": 32121449
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 10,
+    "consumption": 7319492
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 11,
+    "consumption": 77821095
+  },
+  {
+    "office": 320,
+    "year": 2023,
+    "month": 12,
+    "consumption": 82848614
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 1,
+    "consumption": 429982
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 2,
+    "consumption": 677838
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 3,
+    "consumption": 729810
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 4,
+    "consumption": 800063
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 5,
+    "consumption": 951210
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 6,
+    "consumption": 15547
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 7,
+    "consumption": 352774
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 8,
+    "consumption": 836977
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 9,
+    "consumption": 112172
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 10,
+    "consumption": 566702
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 11,
+    "consumption": 562147
+  },
+  {
+    "office": 321,
+    "year": 2023,
+    "month": 12,
+    "consumption": 611925
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 1,
+    "consumption": 769770
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 2,
+    "consumption": 397116
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 3,
+    "consumption": 447332
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 4,
+    "consumption": 182691
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 5,
+    "consumption": 54861
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 6,
+    "consumption": 172697
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 7,
+    "consumption": 23529
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 8,
+    "consumption": 87257
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 9,
+    "consumption": 679152
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 10,
+    "consumption": 671997
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 11,
+    "consumption": 657018
+  },
+  {
+    "office": 322,
+    "year": 2023,
+    "month": 12,
+    "consumption": 888722
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 1,
+    "consumption": 117337
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 2,
+    "consumption": 73759
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 3,
+    "consumption": 524480
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 4,
+    "consumption": 822936
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 5,
+    "consumption": 974276
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 6,
+    "consumption": 36434
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 7,
+    "consumption": 268423
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 8,
+    "consumption": 296283
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 9,
+    "consumption": 892143
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 10,
+    "consumption": 141660
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 11,
+    "consumption": 354126
+  },
+  {
+    "office": 323,
+    "year": 2023,
+    "month": 12,
+    "consumption": 727886
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 1,
+    "consumption": 48937
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 2,
+    "consumption": 752814
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 3,
+    "consumption": 651640
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 4,
+    "consumption": 232311
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 5,
+    "consumption": 107260
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 6,
+    "consumption": 947343
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 7,
+    "consumption": 257312
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 8,
+    "consumption": 273581
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 9,
+    "consumption": 502427
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 10,
+    "consumption": 959912
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 11,
+    "consumption": 369264
+  },
+  {
+    "office": 324,
+    "year": 2023,
+    "month": 12,
+    "consumption": 857721
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 1,
+    "consumption": 1563884
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8725165
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9725193
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 4,
+    "consumption": 517683
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7344090
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4897408
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 7,
+    "consumption": 8275284
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 8,
+    "consumption": 1049274
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5010675
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 10,
+    "consumption": 9387408
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 11,
+    "consumption": 3138348
+  },
+  {
+    "office": 325,
+    "year": 2023,
+    "month": 12,
+    "consumption": 6635001
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 1,
+    "consumption": 2194176
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8318462
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9646146
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 4,
+    "consumption": 3936474
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8412294
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 6,
+    "consumption": 430233
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 7,
+    "consumption": 8146512
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 8,
+    "consumption": 8900326
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5338970
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 10,
+    "consumption": 4979854
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 11,
+    "consumption": 1290927
+  },
+  {
+    "office": 326,
+    "year": 2023,
+    "month": 12,
+    "consumption": 828964
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3992181
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 2,
+    "consumption": 1050744
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9721601
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5262355
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4320782
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 6,
+    "consumption": 3359684
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 7,
+    "consumption": 8633758
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 8,
+    "consumption": 646410
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9161194
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1124429
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 11,
+    "consumption": 7238297
+  },
+  {
+    "office": 327,
+    "year": 2023,
+    "month": 12,
+    "consumption": 7775258
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7280443
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2040627
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9591168
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7864472
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8761373
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 6,
+    "consumption": 6834341
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4893455
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 8,
+    "consumption": 9354654
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 9,
+    "consumption": 8903286
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 10,
+    "consumption": 4204799
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 11,
+    "consumption": 3173905
+  },
+  {
+    "office": 328,
+    "year": 2023,
+    "month": 12,
+    "consumption": 365431
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 1,
+    "consumption": 1948839
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2900721
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9454827
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7111336
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 5,
+    "consumption": 923525
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4708030
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 7,
+    "consumption": 8142595
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 8,
+    "consumption": 2831213
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 9,
+    "consumption": 8374499
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 10,
+    "consumption": 4003723
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 11,
+    "consumption": 1902598
+  },
+  {
+    "office": 329,
+    "year": 2023,
+    "month": 12,
+    "consumption": 9421447
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3489432
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7596292
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9501416
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8723701
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 5,
+    "consumption": 9285184
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 6,
+    "consumption": 8933849
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 7,
+    "consumption": 9827185
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3219842
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 9,
+    "consumption": 3319619
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6749116
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 11,
+    "consumption": 3708532
+  },
+  {
+    "office": 330,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2629711
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9205313
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8131654
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 3,
+    "consumption": 558439
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5741660
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6385764
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2686451
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 7,
+    "consumption": 7784688
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4315899
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6814485
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 10,
+    "consumption": 301799
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 11,
+    "consumption": 3351813
+  },
+  {
+    "office": 331,
+    "year": 2023,
+    "month": 12,
+    "consumption": 1770559
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 1,
+    "consumption": 5186633
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7770528
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 3,
+    "consumption": 5027763
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 4,
+    "consumption": 2552745
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 5,
+    "consumption": 9133127
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 6,
+    "consumption": 3906761
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 7,
+    "consumption": 2674644
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 8,
+    "consumption": 5350815
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6561708
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 10,
+    "consumption": 4891230
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 11,
+    "consumption": 6498681
+  },
+  {
+    "office": 332,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4271456
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 1,
+    "consumption": 1296620
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 2,
+    "consumption": 5542014
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 3,
+    "consumption": 7269712
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 4,
+    "consumption": 3193959
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 5,
+    "consumption": 3362040
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2577363
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4643567
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 8,
+    "consumption": 2429199
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 9,
+    "consumption": 3000030
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 10,
+    "consumption": 142175
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5688432
+  },
+  {
+    "office": 333,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4187990
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 1,
+    "consumption": 501998
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 2,
+    "consumption": 808584
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 3,
+    "consumption": 564971
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 4,
+    "consumption": 381175
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 5,
+    "consumption": 300501
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 6,
+    "consumption": 105294
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 7,
+    "consumption": 188925
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 8,
+    "consumption": 370536
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 9,
+    "consumption": 198636
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 10,
+    "consumption": 155428
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 11,
+    "consumption": 628070
+  },
+  {
+    "office": 334,
+    "year": 2023,
+    "month": 12,
+    "consumption": 630665
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 1,
+    "consumption": 2944009
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 2,
+    "consumption": 1044561
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 3,
+    "consumption": 7115605
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6895049
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 5,
+    "consumption": 3231769
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2172961
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 7,
+    "consumption": 46856
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 8,
+    "consumption": 2415332
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 9,
+    "consumption": 981020
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1145177
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 11,
+    "consumption": 6306634
+  },
+  {
+    "office": 335,
+    "year": 2023,
+    "month": 12,
+    "consumption": 9275029
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 1,
+    "consumption": 5335234
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 2,
+    "consumption": 59636814
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 3,
+    "consumption": 86379239
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 4,
+    "consumption": 85542857
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 5,
+    "consumption": 13726213
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 6,
+    "consumption": 11694159
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 7,
+    "consumption": 12764515
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 8,
+    "consumption": 52495258
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 9,
+    "consumption": 67715008
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 10,
+    "consumption": 98278652
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 11,
+    "consumption": 80368512
+  },
+  {
+    "office": 336,
+    "year": 2023,
+    "month": 12,
+    "consumption": 40938057
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 1,
+    "consumption": 95865299
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 2,
+    "consumption": 52631987
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 3,
+    "consumption": 86564703
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 4,
+    "consumption": 36407865
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 5,
+    "consumption": 44109576
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 6,
+    "consumption": 499193
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 7,
+    "consumption": 8187877
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 8,
+    "consumption": 16824918
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 9,
+    "consumption": 46554290
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 10,
+    "consumption": 32388598
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 11,
+    "consumption": 94593717
+  },
+  {
+    "office": 337,
+    "year": 2023,
+    "month": 12,
+    "consumption": 24118860
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 1,
+    "consumption": 50113271
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 2,
+    "consumption": 86292521
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 3,
+    "consumption": 56017172
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 4,
+    "consumption": 80685551
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 5,
+    "consumption": 19235949
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 6,
+    "consumption": 74449124
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 7,
+    "consumption": 77133239
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 8,
+    "consumption": 7277292
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 9,
+    "consumption": 27489112
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 10,
+    "consumption": 98043539
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 11,
+    "consumption": 19102295
+  },
+  {
+    "office": 338,
+    "year": 2023,
+    "month": 12,
+    "consumption": 14831602
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 1,
+    "consumption": 79265598
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 2,
+    "consumption": 45798916
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 3,
+    "consumption": 34607548
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 4,
+    "consumption": 18266597
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8086444
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 6,
+    "consumption": 53935145
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 7,
+    "consumption": 81800523
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 8,
+    "consumption": 80706031
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 9,
+    "consumption": 62876027
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 10,
+    "consumption": 76507365
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 11,
+    "consumption": 57015723
+  },
+  {
+    "office": 339,
+    "year": 2023,
+    "month": 12,
+    "consumption": 95853823
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 1,
+    "consumption": 81725732
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 2,
+    "consumption": 81968627
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 3,
+    "consumption": 8984940
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 4,
+    "consumption": 58303492
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 5,
+    "consumption": 85295358
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 6,
+    "consumption": 7757311
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 7,
+    "consumption": 64549369
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 8,
+    "consumption": 42432430
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 9,
+    "consumption": 69463864
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 10,
+    "consumption": 92369567
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 11,
+    "consumption": 24155347
+  },
+  {
+    "office": 340,
+    "year": 2023,
+    "month": 12,
+    "consumption": 52702153
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 1,
+    "consumption": 223526
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7398048
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 3,
+    "consumption": 5123305
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6450407
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7283943
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2698554
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 7,
+    "consumption": 5234691
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3790760
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5736018
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 10,
+    "consumption": 7560927
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 11,
+    "consumption": 7081880
+  },
+  {
+    "office": 341,
+    "year": 2023,
+    "month": 12,
+    "consumption": 6364123
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 1,
+    "consumption": 79859299
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 2,
+    "consumption": 27663503
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 3,
+    "consumption": 73050541
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 4,
+    "consumption": 27270006
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 5,
+    "consumption": 16468737
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 6,
+    "consumption": 62161947
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 7,
+    "consumption": 31319792
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 8,
+    "consumption": 5122930
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 9,
+    "consumption": 28627583
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 10,
+    "consumption": 97817105
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 11,
+    "consumption": 92980892
+  },
+  {
+    "office": 342,
+    "year": 2023,
+    "month": 12,
+    "consumption": 1548567
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 1,
+    "consumption": 62718907
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 2,
+    "consumption": 87354548
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 3,
+    "consumption": 8362236
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 4,
+    "consumption": 16975599
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 5,
+    "consumption": 77654518
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 6,
+    "consumption": 50040215
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 7,
+    "consumption": 27501751
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 8,
+    "consumption": 29187228
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 9,
+    "consumption": 21935942
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 10,
+    "consumption": 57350773
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 11,
+    "consumption": 44380683
+  },
+  {
+    "office": 343,
+    "year": 2023,
+    "month": 12,
+    "consumption": 33967963
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 1,
+    "consumption": 37256256
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 2,
+    "consumption": 85603365
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 3,
+    "consumption": 10952982
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 4,
+    "consumption": 20922693
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 5,
+    "consumption": 63278208
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 6,
+    "consumption": 61509688
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 7,
+    "consumption": 18277738
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 8,
+    "consumption": 69486734
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 9,
+    "consumption": 68601994
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 10,
+    "consumption": 30952621
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 11,
+    "consumption": 47851559
+  },
+  {
+    "office": 344,
+    "year": 2023,
+    "month": 12,
+    "consumption": 78950001
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 1,
+    "consumption": 137486
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 2,
+    "consumption": 45075
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 3,
+    "consumption": 244186
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 4,
+    "consumption": 702408
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 5,
+    "consumption": 303688
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 6,
+    "consumption": 975663
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 7,
+    "consumption": 727134
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 8,
+    "consumption": 926185
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 9,
+    "consumption": 615549
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 10,
+    "consumption": 43916
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 11,
+    "consumption": 265915
+  },
+  {
+    "office": 345,
+    "year": 2023,
+    "month": 12,
+    "consumption": 738352
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 1,
+    "consumption": 37742
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 2,
+    "consumption": 822162
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 3,
+    "consumption": 338981
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 4,
+    "consumption": 248172
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 5,
+    "consumption": 547705
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 6,
+    "consumption": 498600
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 7,
+    "consumption": 600114
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 8,
+    "consumption": 732689
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 9,
+    "consumption": 361905
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 10,
+    "consumption": 948809
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 11,
+    "consumption": 77266
+  },
+  {
+    "office": 346,
+    "year": 2023,
+    "month": 12,
+    "consumption": 145311
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 1,
+    "consumption": 185763
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 2,
+    "consumption": 1742550
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 3,
+    "consumption": 577031
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8631260
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 5,
+    "consumption": 5666373
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 6,
+    "consumption": 9236941
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 7,
+    "consumption": 7083667
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 8,
+    "consumption": 1117980
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 9,
+    "consumption": 4731144
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6674289
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 11,
+    "consumption": 487064
+  },
+  {
+    "office": 347,
+    "year": 2023,
+    "month": 12,
+    "consumption": 8707449
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 1,
+    "consumption": 76636
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 2,
+    "consumption": 560721
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 3,
+    "consumption": 417375
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 4,
+    "consumption": 86754
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 5,
+    "consumption": 748961
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 6,
+    "consumption": 421485
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 7,
+    "consumption": 312826
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 8,
+    "consumption": 210898
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 9,
+    "consumption": 839046
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 10,
+    "consumption": 569214
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 11,
+    "consumption": 466476
+  },
+  {
+    "office": 348,
+    "year": 2023,
+    "month": 12,
+    "consumption": 779072
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 1,
+    "consumption": 10146383
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 2,
+    "consumption": 26285690
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 3,
+    "consumption": 66797301
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 4,
+    "consumption": 95623322
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8124822
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 6,
+    "consumption": 54352145
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 7,
+    "consumption": 94977211
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 8,
+    "consumption": 69775760
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 9,
+    "consumption": 94937117
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 10,
+    "consumption": 34878399
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 11,
+    "consumption": 30747554
+  },
+  {
+    "office": 349,
+    "year": 2023,
+    "month": 12,
+    "consumption": 27488041
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 1,
+    "consumption": 2852134
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 2,
+    "consumption": 4586946
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 3,
+    "consumption": 504760
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6801331
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 5,
+    "consumption": 5775712
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2833281
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 7,
+    "consumption": 819491
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3639873
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 9,
+    "consumption": 2188585
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 10,
+    "consumption": 4137040
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 11,
+    "consumption": 8612575
+  },
+  {
+    "office": 350,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2852250
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 1,
+    "consumption": 34647493
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 2,
+    "consumption": 63002536
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 3,
+    "consumption": 74060477
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6571809
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 5,
+    "consumption": 13719549
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 6,
+    "consumption": 37841453
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 7,
+    "consumption": 5025953
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 8,
+    "consumption": 35444299
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 9,
+    "consumption": 64606941
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 10,
+    "consumption": 10193517
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 11,
+    "consumption": 44400830
+  },
+  {
+    "office": 351,
+    "year": 2023,
+    "month": 12,
+    "consumption": 64341708
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 1,
+    "consumption": 918429
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 2,
+    "consumption": 291954
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 3,
+    "consumption": 885334
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 4,
+    "consumption": 892622
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 5,
+    "consumption": 705998
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 6,
+    "consumption": 29503
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 7,
+    "consumption": 335730
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 8,
+    "consumption": 910892
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 9,
+    "consumption": 286068
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 10,
+    "consumption": 360707
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 11,
+    "consumption": 253612
+  },
+  {
+    "office": 352,
+    "year": 2023,
+    "month": 12,
+    "consumption": 417382
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 1,
+    "consumption": 2161285
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 2,
+    "consumption": 5060839
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9131688
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5887534
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7256021
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 6,
+    "consumption": 5184302
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3172729
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4188226
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9533940
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1891743
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 11,
+    "consumption": 3951400
+  },
+  {
+    "office": 353,
+    "year": 2023,
+    "month": 12,
+    "consumption": 689561
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 1,
+    "consumption": 35733132
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 2,
+    "consumption": 97720730
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 3,
+    "consumption": 6583164
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 4,
+    "consumption": 13215304
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 5,
+    "consumption": 75691790
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 6,
+    "consumption": 95114344
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 7,
+    "consumption": 11145202
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 8,
+    "consumption": 96124227
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 9,
+    "consumption": 81735368
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6049802
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5770967
+  },
+  {
+    "office": 354,
+    "year": 2023,
+    "month": 12,
+    "consumption": 82326475
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 1,
+    "consumption": 602510
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 2,
+    "consumption": 287034
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 3,
+    "consumption": 70706
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 4,
+    "consumption": 49778
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 5,
+    "consumption": 496801
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 6,
+    "consumption": 608949
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 7,
+    "consumption": 245257
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 8,
+    "consumption": 695193
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 9,
+    "consumption": 727638
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 10,
+    "consumption": 242550
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 11,
+    "consumption": 67165
+  },
+  {
+    "office": 355,
+    "year": 2023,
+    "month": 12,
+    "consumption": 752090
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 1,
+    "consumption": 69468001
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 2,
+    "consumption": 56548409
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 3,
+    "consumption": 99216993
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 4,
+    "consumption": 66235948
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 5,
+    "consumption": 21438540
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 6,
+    "consumption": 94465505
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 7,
+    "consumption": 77129453
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 8,
+    "consumption": 75585419
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 9,
+    "consumption": 4573121
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 10,
+    "consumption": 25686626
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 11,
+    "consumption": 96153434
+  },
+  {
+    "office": 356,
+    "year": 2023,
+    "month": 12,
+    "consumption": 17128540
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 1,
+    "consumption": 742195
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 2,
+    "consumption": 955187
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 3,
+    "consumption": 697643
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 4,
+    "consumption": 543080
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 5,
+    "consumption": 194450
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 6,
+    "consumption": 495000
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 7,
+    "consumption": 912154
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 8,
+    "consumption": 951554
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 9,
+    "consumption": 393842
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 10,
+    "consumption": 121352
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 11,
+    "consumption": 435172
+  },
+  {
+    "office": 357,
+    "year": 2023,
+    "month": 12,
+    "consumption": 312091
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 1,
+    "consumption": 68321651
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 2,
+    "consumption": 84247847
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 3,
+    "consumption": 40154016
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 4,
+    "consumption": 84093506
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 5,
+    "consumption": 50248432
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 6,
+    "consumption": 80297232
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 7,
+    "consumption": 43410432
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 8,
+    "consumption": 79338972
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 9,
+    "consumption": 30921386
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 10,
+    "consumption": 49598653
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 11,
+    "consumption": 80246234
+  },
+  {
+    "office": 358,
+    "year": 2023,
+    "month": 12,
+    "consumption": 81458126
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7295665
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 2,
+    "consumption": 21019179
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 3,
+    "consumption": 20882482
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 4,
+    "consumption": 81839617
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 5,
+    "consumption": 70506166
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 6,
+    "consumption": 41555691
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 7,
+    "consumption": 9922571
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 8,
+    "consumption": 35107345
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 9,
+    "consumption": 14577092
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 10,
+    "consumption": 58814088
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 11,
+    "consumption": 68633765
+  },
+  {
+    "office": 359,
+    "year": 2023,
+    "month": 12,
+    "consumption": 23024716
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 1,
+    "consumption": 48406663
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 2,
+    "consumption": 76979920
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 3,
+    "consumption": 14953506
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 4,
+    "consumption": 22752429
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 5,
+    "consumption": 94228391
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 6,
+    "consumption": 56571049
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 7,
+    "consumption": 81467521
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 8,
+    "consumption": 28671224
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 9,
+    "consumption": 67679742
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6926504
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 11,
+    "consumption": 8636794
+  },
+  {
+    "office": 360,
+    "year": 2023,
+    "month": 12,
+    "consumption": 40461075
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9565032
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 2,
+    "consumption": 11469522
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 3,
+    "consumption": 32882084
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 4,
+    "consumption": 39281436
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 5,
+    "consumption": 77485236
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 6,
+    "consumption": 15376225
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 7,
+    "consumption": 7725566
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 8,
+    "consumption": 23232188
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 9,
+    "consumption": 74051816
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 10,
+    "consumption": 31597558
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 11,
+    "consumption": 12132800
+  },
+  {
+    "office": 361,
+    "year": 2023,
+    "month": 12,
+    "consumption": 19779088
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 1,
+    "consumption": 722388
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 2,
+    "consumption": 688358
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 3,
+    "consumption": 765054
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 4,
+    "consumption": 295042
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 5,
+    "consumption": 874505
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 6,
+    "consumption": 673764
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 7,
+    "consumption": 705818
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 8,
+    "consumption": 688260
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 9,
+    "consumption": 2211
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 10,
+    "consumption": 456323
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 11,
+    "consumption": 856578
+  },
+  {
+    "office": 362,
+    "year": 2023,
+    "month": 12,
+    "consumption": 47909
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7174332
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 2,
+    "consumption": 43913951
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 3,
+    "consumption": 43387684
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 4,
+    "consumption": 91585387
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 5,
+    "consumption": 63907103
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 6,
+    "consumption": 69890671
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 7,
+    "consumption": 58845521
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 8,
+    "consumption": 99364356
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 9,
+    "consumption": 54500009
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 10,
+    "consumption": 22183024
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 11,
+    "consumption": 11169398
+  },
+  {
+    "office": 363,
+    "year": 2023,
+    "month": 12,
+    "consumption": 61763144
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 1,
+    "consumption": 4738628
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 2,
+    "consumption": 6634330
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 3,
+    "consumption": 8063464
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6369597
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 5,
+    "consumption": 3772665
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 6,
+    "consumption": 7761370
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6708403
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4430982
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5580313
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 10,
+    "consumption": 3960979
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 11,
+    "consumption": 4779801
+  },
+  {
+    "office": 364,
+    "year": 2023,
+    "month": 12,
+    "consumption": 5439530
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 1,
+    "consumption": 81662518
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 2,
+    "consumption": 97695308
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 3,
+    "consumption": 21291022
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 4,
+    "consumption": 39961537
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 5,
+    "consumption": 28268625
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 6,
+    "consumption": 21511865
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 7,
+    "consumption": 22515991
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 8,
+    "consumption": 95067251
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 9,
+    "consumption": 67638240
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 10,
+    "consumption": 55070155
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 11,
+    "consumption": 16875787
+  },
+  {
+    "office": 365,
+    "year": 2023,
+    "month": 12,
+    "consumption": 80355199
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 1,
+    "consumption": 59432177
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 2,
+    "consumption": 88202581
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 3,
+    "consumption": 87435537
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 4,
+    "consumption": 68265567
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 5,
+    "consumption": 39828132
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 6,
+    "consumption": 30796388
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 7,
+    "consumption": 40897614
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 8,
+    "consumption": 44286079
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 9,
+    "consumption": 21326842
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 10,
+    "consumption": 64155752
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 11,
+    "consumption": 28390061
+  },
+  {
+    "office": 366,
+    "year": 2023,
+    "month": 12,
+    "consumption": 92747937
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 1,
+    "consumption": 1398331
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7467844
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9277230
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 4,
+    "consumption": 3634082
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7888047
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 6,
+    "consumption": 5742586
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3014231
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 8,
+    "consumption": 29904
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 9,
+    "consumption": 2359141
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 10,
+    "consumption": 7249091
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9167445
+  },
+  {
+    "office": 367,
+    "year": 2023,
+    "month": 12,
+    "consumption": 3418534
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 1,
+    "consumption": 697798
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 2,
+    "consumption": 612812
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 3,
+    "consumption": 418859
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 4,
+    "consumption": 914627
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 5,
+    "consumption": 512248
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 6,
+    "consumption": 940531
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 7,
+    "consumption": 979382
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 8,
+    "consumption": 134583
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 9,
+    "consumption": 792117
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 10,
+    "consumption": 305803
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 11,
+    "consumption": 228463
+  },
+  {
+    "office": 368,
+    "year": 2023,
+    "month": 12,
+    "consumption": 604530
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 1,
+    "consumption": 56334778
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 2,
+    "consumption": 97270303
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 3,
+    "consumption": 4657341
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 4,
+    "consumption": 84735759
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 5,
+    "consumption": 23027036
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 6,
+    "consumption": 97260214
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 7,
+    "consumption": 81887317
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 8,
+    "consumption": 81392724
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 9,
+    "consumption": 79630420
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6556260
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 11,
+    "consumption": 67485793
+  },
+  {
+    "office": 369,
+    "year": 2023,
+    "month": 12,
+    "consumption": 99538703
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9608905
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8470438
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9056557
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 4,
+    "consumption": 9340786
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 5,
+    "consumption": 9907450
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 6,
+    "consumption": 577278
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 7,
+    "consumption": 2660148
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 8,
+    "consumption": 6625876
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 9,
+    "consumption": 508975
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 10,
+    "consumption": 5144596
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 11,
+    "consumption": 6965205
+  },
+  {
+    "office": 370,
+    "year": 2023,
+    "month": 12,
+    "consumption": 368588
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 1,
+    "consumption": 883270
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 2,
+    "consumption": 387189
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 3,
+    "consumption": 549571
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 4,
+    "consumption": 218834
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 5,
+    "consumption": 786917
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 6,
+    "consumption": 785207
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 7,
+    "consumption": 411195
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 8,
+    "consumption": 622465
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 9,
+    "consumption": 996980
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 10,
+    "consumption": 221806
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 11,
+    "consumption": 280412
+  },
+  {
+    "office": 371,
+    "year": 2023,
+    "month": 12,
+    "consumption": 182197
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 1,
+    "consumption": 773115
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 2,
+    "consumption": 939798
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 3,
+    "consumption": 123787
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 4,
+    "consumption": 39973
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 5,
+    "consumption": 454127
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 6,
+    "consumption": 738945
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6519
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 8,
+    "consumption": 593058
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 9,
+    "consumption": 36984
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 10,
+    "consumption": 239474
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 11,
+    "consumption": 947294
+  },
+  {
+    "office": 372,
+    "year": 2023,
+    "month": 12,
+    "consumption": 599657
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 1,
+    "consumption": 24616531
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 2,
+    "consumption": 98675582
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 3,
+    "consumption": 12315300
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 4,
+    "consumption": 38628572
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4807700
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 6,
+    "consumption": 60145288
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 7,
+    "consumption": 87557928
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 8,
+    "consumption": 97131612
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 9,
+    "consumption": 60889522
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 10,
+    "consumption": 82910775
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 11,
+    "consumption": 64542520
+  },
+  {
+    "office": 373,
+    "year": 2023,
+    "month": 12,
+    "consumption": 96542565
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 1,
+    "consumption": 12755895
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 2,
+    "consumption": 77741817
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 3,
+    "consumption": 57320721
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 4,
+    "consumption": 2058575
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 5,
+    "consumption": 1040229
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 6,
+    "consumption": 9436276
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4119422
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 8,
+    "consumption": 66598116
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 9,
+    "consumption": 41231897
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 10,
+    "consumption": 94883711
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 11,
+    "consumption": 39833692
+  },
+  {
+    "office": 374,
+    "year": 2023,
+    "month": 12,
+    "consumption": 42304638
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 1,
+    "consumption": 73009740
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 2,
+    "consumption": 71765743
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2201404
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 4,
+    "consumption": 42862520
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 5,
+    "consumption": 64451609
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 6,
+    "consumption": 35903381
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 7,
+    "consumption": 930285
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 8,
+    "consumption": 60022678
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 9,
+    "consumption": 80658326
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 10,
+    "consumption": 35362648
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 11,
+    "consumption": 62649695
+  },
+  {
+    "office": 375,
+    "year": 2023,
+    "month": 12,
+    "consumption": 34351304
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 1,
+    "consumption": 873207
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 2,
+    "consumption": 66508147
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 3,
+    "consumption": 29560884
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 4,
+    "consumption": 48939642
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 5,
+    "consumption": 76243959
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 6,
+    "consumption": 97887346
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 7,
+    "consumption": 97534000
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 8,
+    "consumption": 62329574
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 9,
+    "consumption": 80854190
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 10,
+    "consumption": 79621935
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 11,
+    "consumption": 4816590
+  },
+  {
+    "office": 376,
+    "year": 2023,
+    "month": 12,
+    "consumption": 165941
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3187872
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 2,
+    "consumption": 649929
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 3,
+    "consumption": 8844669
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8214333
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7063443
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4780139
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 7,
+    "consumption": 2234381
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 8,
+    "consumption": 5446524
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6078585
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 10,
+    "consumption": 6177665
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 11,
+    "consumption": 3181883
+  },
+  {
+    "office": 377,
+    "year": 2023,
+    "month": 12,
+    "consumption": 9957093
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3188837
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 2,
+    "consumption": 94455312
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 3,
+    "consumption": 62986581
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 4,
+    "consumption": 88086621
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 5,
+    "consumption": 68617669
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 6,
+    "consumption": 49079179
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 7,
+    "consumption": 98793168
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 8,
+    "consumption": 18876114
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 9,
+    "consumption": 77777289
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 10,
+    "consumption": 49798120
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 11,
+    "consumption": 27623992
+  },
+  {
+    "office": 378,
+    "year": 2023,
+    "month": 12,
+    "consumption": 27406491
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 1,
+    "consumption": 40892726
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 2,
+    "consumption": 58824401
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 3,
+    "consumption": 20565132
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 4,
+    "consumption": 54604080
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 5,
+    "consumption": 32601112
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 6,
+    "consumption": 10564305
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 7,
+    "consumption": 71850458
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 8,
+    "consumption": 69941999
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 9,
+    "consumption": 83797495
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 10,
+    "consumption": 79273147
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 11,
+    "consumption": 44795148
+  },
+  {
+    "office": 379,
+    "year": 2023,
+    "month": 12,
+    "consumption": 50192735
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 1,
+    "consumption": 5983689
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2834343
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 3,
+    "consumption": 8715325
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8024097
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7965627
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 6,
+    "consumption": 5506953
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 7,
+    "consumption": 140005
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 8,
+    "consumption": 5369814
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 9,
+    "consumption": 4217482
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1024458
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9654221
+  },
+  {
+    "office": 380,
+    "year": 2023,
+    "month": 12,
+    "consumption": 7202110
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 1,
+    "consumption": 25815016
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 2,
+    "consumption": 29414421
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 3,
+    "consumption": 29719012
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7535320
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 5,
+    "consumption": 19413476
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 6,
+    "consumption": 44636275
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 7,
+    "consumption": 42920828
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 8,
+    "consumption": 62348083
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 9,
+    "consumption": 56227311
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 10,
+    "consumption": 87126724
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 11,
+    "consumption": 17683367
+  },
+  {
+    "office": 381,
+    "year": 2023,
+    "month": 12,
+    "consumption": 3602418
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 1,
+    "consumption": 170076
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 2,
+    "consumption": 419478
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 3,
+    "consumption": 483277
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 4,
+    "consumption": 467019
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 5,
+    "consumption": 838281
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 6,
+    "consumption": 907052
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 7,
+    "consumption": 240792
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 8,
+    "consumption": 575264
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 9,
+    "consumption": 177194
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 10,
+    "consumption": 225526
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 11,
+    "consumption": 805995
+  },
+  {
+    "office": 382,
+    "year": 2023,
+    "month": 12,
+    "consumption": 635151
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 1,
+    "consumption": 30721933
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 2,
+    "consumption": 78477236
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 3,
+    "consumption": 84008403
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 4,
+    "consumption": 36695986
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 5,
+    "consumption": 92192362
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 6,
+    "consumption": 20064415
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 7,
+    "consumption": 67924159
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 8,
+    "consumption": 71587466
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9737471
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 10,
+    "consumption": 96942830
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 11,
+    "consumption": 25619565
+  },
+  {
+    "office": 383,
+    "year": 2023,
+    "month": 12,
+    "consumption": 32831841
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 1,
+    "consumption": 593379
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 2,
+    "consumption": 48696
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 3,
+    "consumption": 912758
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 4,
+    "consumption": 87288
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 5,
+    "consumption": 626221
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 6,
+    "consumption": 564143
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 7,
+    "consumption": 700309
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 8,
+    "consumption": 698758
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 9,
+    "consumption": 934894
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 10,
+    "consumption": 945550
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 11,
+    "consumption": 139717
+  },
+  {
+    "office": 384,
+    "year": 2023,
+    "month": 12,
+    "consumption": 542380
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 1,
+    "consumption": 388328
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 2,
+    "consumption": 977378
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 3,
+    "consumption": 251966
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 4,
+    "consumption": 283073
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 5,
+    "consumption": 826555
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 6,
+    "consumption": 34850
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 7,
+    "consumption": 162313
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 8,
+    "consumption": 899712
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 9,
+    "consumption": 517173
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 10,
+    "consumption": 766498
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 11,
+    "consumption": 360199
+  },
+  {
+    "office": 385,
+    "year": 2023,
+    "month": 12,
+    "consumption": 859696
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 1,
+    "consumption": 366323
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 2,
+    "consumption": 380027
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 3,
+    "consumption": 331478
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 4,
+    "consumption": 169370
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 5,
+    "consumption": 716191
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 6,
+    "consumption": 947615
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 7,
+    "consumption": 802944
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 8,
+    "consumption": 392114
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 9,
+    "consumption": 26372
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 10,
+    "consumption": 604819
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 11,
+    "consumption": 144583
+  },
+  {
+    "office": 386,
+    "year": 2023,
+    "month": 12,
+    "consumption": 840152
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 1,
+    "consumption": 1663594
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2108230
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2639651
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6215304
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4843744
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 6,
+    "consumption": 5182451
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6190569
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 8,
+    "consumption": 6593736
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5187199
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 10,
+    "consumption": 9783633
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9695767
+  },
+  {
+    "office": 387,
+    "year": 2023,
+    "month": 12,
+    "consumption": 9239680
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9446203
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 2,
+    "consumption": 1802769
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 3,
+    "consumption": 7908215
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8467676
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 5,
+    "consumption": 2980336
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4978688
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 7,
+    "consumption": 1031494
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 8,
+    "consumption": 7471986
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9987874
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 10,
+    "consumption": 839256
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 11,
+    "consumption": 953938
+  },
+  {
+    "office": 388,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4432229
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 1,
+    "consumption": 50734126
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 2,
+    "consumption": 55222197
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 3,
+    "consumption": 90731981
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 4,
+    "consumption": 92338414
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 5,
+    "consumption": 79401381
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 6,
+    "consumption": 70137298
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 7,
+    "consumption": 71186228
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 8,
+    "consumption": 40481154
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 9,
+    "consumption": 58196610
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 10,
+    "consumption": 51641863
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 11,
+    "consumption": 72998848
+  },
+  {
+    "office": 389,
+    "year": 2023,
+    "month": 12,
+    "consumption": 83370742
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 1,
+    "consumption": 161866
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 2,
+    "consumption": 988727
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 3,
+    "consumption": 742361
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 4,
+    "consumption": 23274
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 5,
+    "consumption": 267453
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 6,
+    "consumption": 753371
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 7,
+    "consumption": 896635
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 8,
+    "consumption": 502012
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 9,
+    "consumption": 594208
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 10,
+    "consumption": 603993
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 11,
+    "consumption": 511948
+  },
+  {
+    "office": 390,
+    "year": 2023,
+    "month": 12,
+    "consumption": 271923
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 1,
+    "consumption": 911781
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2269252
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 3,
+    "consumption": 8877648
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8670995
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4475346
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 6,
+    "consumption": 286775
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 7,
+    "consumption": 1946273
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 8,
+    "consumption": 513473
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9673030
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 10,
+    "consumption": 9383169
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 11,
+    "consumption": 8941367
+  },
+  {
+    "office": 391,
+    "year": 2023,
+    "month": 12,
+    "consumption": 6297998
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 1,
+    "consumption": 97447167
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 2,
+    "consumption": 748248
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 3,
+    "consumption": 91911747
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 4,
+    "consumption": 51260121
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 5,
+    "consumption": 96231118
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 6,
+    "consumption": 80428380
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6631402
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 8,
+    "consumption": 84224361
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 9,
+    "consumption": 29563746
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 10,
+    "consumption": 26238768
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 11,
+    "consumption": 25961787
+  },
+  {
+    "office": 392,
+    "year": 2023,
+    "month": 12,
+    "consumption": 13678469
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 1,
+    "consumption": 810970
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 2,
+    "consumption": 982895
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 3,
+    "consumption": 284274
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 4,
+    "consumption": 708435
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 5,
+    "consumption": 510166
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 6,
+    "consumption": 91800
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 7,
+    "consumption": 832849
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 8,
+    "consumption": 637488
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 9,
+    "consumption": 703254
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 10,
+    "consumption": 231033
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 11,
+    "consumption": 334424
+  },
+  {
+    "office": 393,
+    "year": 2023,
+    "month": 12,
+    "consumption": 862526
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 1,
+    "consumption": 8956649
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8546804
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9354878
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 4,
+    "consumption": 6231420
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 5,
+    "consumption": 2964106
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 6,
+    "consumption": 6178331
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 7,
+    "consumption": 9510776
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 8,
+    "consumption": 5304430
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 9,
+    "consumption": 4788172
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 10,
+    "consumption": 2621724
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 11,
+    "consumption": 8409496
+  },
+  {
+    "office": 394,
+    "year": 2023,
+    "month": 12,
+    "consumption": 6951437
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 1,
+    "consumption": 479914
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 2,
+    "consumption": 776119
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 3,
+    "consumption": 264318
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 4,
+    "consumption": 716261
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 5,
+    "consumption": 645134
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 6,
+    "consumption": 335386
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 7,
+    "consumption": 319861
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 8,
+    "consumption": 527423
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 9,
+    "consumption": 432257
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 10,
+    "consumption": 97548
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 11,
+    "consumption": 517107
+  },
+  {
+    "office": 395,
+    "year": 2023,
+    "month": 12,
+    "consumption": 123189
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9589494
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 2,
+    "consumption": 998631
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2115190
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7562270
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6719338
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4045480
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4094201
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 8,
+    "consumption": 2481643
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6317374
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 10,
+    "consumption": 2682262
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 11,
+    "consumption": 598589
+  },
+  {
+    "office": 396,
+    "year": 2023,
+    "month": 12,
+    "consumption": 7417102
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 1,
+    "consumption": 157387
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 2,
+    "consumption": 975136
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 3,
+    "consumption": 19197
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 4,
+    "consumption": 932302
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 5,
+    "consumption": 687213
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 6,
+    "consumption": 223046
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 7,
+    "consumption": 10831
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 8,
+    "consumption": 165725
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 9,
+    "consumption": 718555
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 10,
+    "consumption": 637578
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 11,
+    "consumption": 344442
+  },
+  {
+    "office": 397,
+    "year": 2023,
+    "month": 12,
+    "consumption": 428787
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 1,
+    "consumption": 582269
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 2,
+    "consumption": 24540
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 3,
+    "consumption": 312867
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 4,
+    "consumption": 404616
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 5,
+    "consumption": 353474
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 6,
+    "consumption": 72397
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 7,
+    "consumption": 173638
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 8,
+    "consumption": 800072
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 9,
+    "consumption": 944322
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 10,
+    "consumption": 170129
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 11,
+    "consumption": 597229
+  },
+  {
+    "office": 398,
+    "year": 2023,
+    "month": 12,
+    "consumption": 556140
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 1,
+    "consumption": 893962
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 2,
+    "consumption": 416975
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 3,
+    "consumption": 733064
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 4,
+    "consumption": 546845
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 5,
+    "consumption": 901207
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 6,
+    "consumption": 774958
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 7,
+    "consumption": 648948
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 8,
+    "consumption": 311310
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 9,
+    "consumption": 38137
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 10,
+    "consumption": 101932
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 11,
+    "consumption": 357275
+  },
+  {
+    "office": 399,
+    "year": 2023,
+    "month": 12,
+    "consumption": 236673
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 1,
+    "consumption": 82497
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 2,
+    "consumption": 9790648
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 3,
+    "consumption": 1131714
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7089962
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 5,
+    "consumption": 3812866
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4093444
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4334574
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 8,
+    "consumption": 2166796
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 9,
+    "consumption": 7498985
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 10,
+    "consumption": 3456431
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 11,
+    "consumption": 7231936
+  },
+  {
+    "office": 400,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4209231
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 1,
+    "consumption": 6026896
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7010852
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 3,
+    "consumption": 4938570
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7465797
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6904455
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 6,
+    "consumption": 8569517
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 7,
+    "consumption": 2933096
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 8,
+    "consumption": 1691829
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5873186
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 10,
+    "consumption": 4219287
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5128122
+  },
+  {
+    "office": 401,
+    "year": 2023,
+    "month": 12,
+    "consumption": 5257254
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 1,
+    "consumption": 78300409
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 2,
+    "consumption": 33303932
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 3,
+    "consumption": 79630461
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 4,
+    "consumption": 22788271
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 5,
+    "consumption": 95932349
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 6,
+    "consumption": 80090278
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 7,
+    "consumption": 11767536
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 8,
+    "consumption": 47952505
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 9,
+    "consumption": 79597874
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 10,
+    "consumption": 76884905
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 11,
+    "consumption": 45923691
+  },
+  {
+    "office": 402,
+    "year": 2023,
+    "month": 12,
+    "consumption": 34776817
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 1,
+    "consumption": 536617
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 2,
+    "consumption": 508480
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 3,
+    "consumption": 490550
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 4,
+    "consumption": 230492
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 5,
+    "consumption": 272333
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 6,
+    "consumption": 943695
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 7,
+    "consumption": 613348
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 8,
+    "consumption": 93264
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 9,
+    "consumption": 511053
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 10,
+    "consumption": 445514
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 11,
+    "consumption": 38201
+  },
+  {
+    "office": 403,
+    "year": 2023,
+    "month": 12,
+    "consumption": 917805
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 1,
+    "consumption": 6815534
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 2,
+    "consumption": 363340
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 3,
+    "consumption": 1333404
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 4,
+    "consumption": 4459133
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 5,
+    "consumption": 9495423
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 6,
+    "consumption": 386165
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6639464
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3645582
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 9,
+    "consumption": 7443995
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1658757
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 11,
+    "consumption": 1848947
+  },
+  {
+    "office": 404,
+    "year": 2023,
+    "month": 12,
+    "consumption": 1873216
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 1,
+    "consumption": 696664
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 2,
+    "consumption": 667118
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 3,
+    "consumption": 627538
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 4,
+    "consumption": 944258
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 5,
+    "consumption": 744558
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 6,
+    "consumption": 910876
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 7,
+    "consumption": 17123
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 8,
+    "consumption": 508677
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 9,
+    "consumption": 396476
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 10,
+    "consumption": 490311
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 11,
+    "consumption": 416052
+  },
+  {
+    "office": 405,
+    "year": 2023,
+    "month": 12,
+    "consumption": 599427
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 1,
+    "consumption": 170362
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 2,
+    "consumption": 597007
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 3,
+    "consumption": 828849
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 4,
+    "consumption": 450980
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 5,
+    "consumption": 660704
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 6,
+    "consumption": 107067
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 7,
+    "consumption": 734718
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 8,
+    "consumption": 806225
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 9,
+    "consumption": 121848
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 10,
+    "consumption": 469335
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 11,
+    "consumption": 12083
+  },
+  {
+    "office": 406,
+    "year": 2023,
+    "month": 12,
+    "consumption": 543441
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 1,
+    "consumption": 483915
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 2,
+    "consumption": 577036
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 3,
+    "consumption": 15151
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 4,
+    "consumption": 665758
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 5,
+    "consumption": 329573
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 6,
+    "consumption": 683772
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 7,
+    "consumption": 677734
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 8,
+    "consumption": 236810
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 9,
+    "consumption": 860229
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 10,
+    "consumption": 108202
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 11,
+    "consumption": 293146
+  },
+  {
+    "office": 407,
+    "year": 2023,
+    "month": 12,
+    "consumption": 676828
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 1,
+    "consumption": 158647
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 2,
+    "consumption": 611096
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 3,
+    "consumption": 367714
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 4,
+    "consumption": 916272
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 5,
+    "consumption": 512837
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 6,
+    "consumption": 61978
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 7,
+    "consumption": 288312
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 8,
+    "consumption": 288492
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 9,
+    "consumption": 753956
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 10,
+    "consumption": 907566
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 11,
+    "consumption": 340279
+  },
+  {
+    "office": 408,
+    "year": 2023,
+    "month": 12,
+    "consumption": 54691
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3119925
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7966354
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 3,
+    "consumption": 3394021
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8761870
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8873556
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4999718
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 7,
+    "consumption": 7116692
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4776924
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 9,
+    "consumption": 1983487
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 10,
+    "consumption": 7190712
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 11,
+    "consumption": 6987893
+  },
+  {
+    "office": 409,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4816352
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 1,
+    "consumption": 854239
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 2,
+    "consumption": 587169
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 3,
+    "consumption": 37922
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 4,
+    "consumption": 664048
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 5,
+    "consumption": 445690
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 6,
+    "consumption": 651103
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 7,
+    "consumption": 965295
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 8,
+    "consumption": 723420
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 9,
+    "consumption": 554005
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 10,
+    "consumption": 577600
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 11,
+    "consumption": 836688
+  },
+  {
+    "office": 410,
+    "year": 2023,
+    "month": 12,
+    "consumption": 21349
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7008544
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 2,
+    "consumption": 4430292
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 3,
+    "consumption": 200250
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5258296
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7893706
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 6,
+    "consumption": 563171
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 7,
+    "consumption": 6060789
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 8,
+    "consumption": 1242659
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 9,
+    "consumption": 9495398
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 10,
+    "consumption": 9599096
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 11,
+    "consumption": 1356986
+  },
+  {
+    "office": 411,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2621420
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 1,
+    "consumption": 966670
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 2,
+    "consumption": 797844
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 3,
+    "consumption": 417102
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 4,
+    "consumption": 895153
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 5,
+    "consumption": 739895
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 6,
+    "consumption": 465010
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 7,
+    "consumption": 682644
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 8,
+    "consumption": 460819
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 9,
+    "consumption": 253399
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 10,
+    "consumption": 722644
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 11,
+    "consumption": 80599
+  },
+  {
+    "office": 412,
+    "year": 2023,
+    "month": 12,
+    "consumption": 987574
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 1,
+    "consumption": 755118
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 2,
+    "consumption": 33106
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 3,
+    "consumption": 647332
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 4,
+    "consumption": 919303
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 5,
+    "consumption": 721672
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 6,
+    "consumption": 17623
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 7,
+    "consumption": 673031
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 8,
+    "consumption": 186309
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 9,
+    "consumption": 435659
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 10,
+    "consumption": 866307
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 11,
+    "consumption": 746718
+  },
+  {
+    "office": 413,
+    "year": 2023,
+    "month": 12,
+    "consumption": 566774
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 1,
+    "consumption": 78099620
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 2,
+    "consumption": 9802972
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 3,
+    "consumption": 52929634
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 4,
+    "consumption": 32924377
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 5,
+    "consumption": 1427717
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 6,
+    "consumption": 201943
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3120149
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 8,
+    "consumption": 35044146
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 9,
+    "consumption": 11779649
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 10,
+    "consumption": 83587234
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 11,
+    "consumption": 25169521
+  },
+  {
+    "office": 414,
+    "year": 2023,
+    "month": 12,
+    "consumption": 93572011
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 1,
+    "consumption": 13343063
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 2,
+    "consumption": 89637084
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 3,
+    "consumption": 38586113
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 4,
+    "consumption": 29087407
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6469865
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 6,
+    "consumption": 6778310
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 7,
+    "consumption": 42549892
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 8,
+    "consumption": 26175593
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 9,
+    "consumption": 13249752
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 10,
+    "consumption": 31017093
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 11,
+    "consumption": 43225357
+  },
+  {
+    "office": 415,
+    "year": 2023,
+    "month": 12,
+    "consumption": 89933167
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7115017
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 2,
+    "consumption": 3348394
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 3,
+    "consumption": 7041455
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 4,
+    "consumption": 3727552
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 5,
+    "consumption": 1950621
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 6,
+    "consumption": 5603906
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 7,
+    "consumption": 9803364
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 8,
+    "consumption": 5051935
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 9,
+    "consumption": 7875270
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 10,
+    "consumption": 3004371
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 11,
+    "consumption": 1182837
+  },
+  {
+    "office": 416,
+    "year": 2023,
+    "month": 12,
+    "consumption": 5653375
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 1,
+    "consumption": 28856885
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7669507
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 3,
+    "consumption": 18662566
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 4,
+    "consumption": 71445121
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 5,
+    "consumption": 43565373
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 6,
+    "consumption": 18910532
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 7,
+    "consumption": 8124875
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 8,
+    "consumption": 32942625
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 9,
+    "consumption": 98501976
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 10,
+    "consumption": 66065960
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 11,
+    "consumption": 74051939
+  },
+  {
+    "office": 417,
+    "year": 2023,
+    "month": 12,
+    "consumption": 61704810
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 1,
+    "consumption": 98871742
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 2,
+    "consumption": 87350320
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 3,
+    "consumption": 43636923
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 4,
+    "consumption": 42035128
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 5,
+    "consumption": 11271590
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 6,
+    "consumption": 19413186
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 7,
+    "consumption": 92172828
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 8,
+    "consumption": 64816936
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 9,
+    "consumption": 23072445
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 10,
+    "consumption": 48387633
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 11,
+    "consumption": 96599430
+  },
+  {
+    "office": 418,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2107765
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 1,
+    "consumption": 6606301
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 2,
+    "consumption": 6555261
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2677167
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 4,
+    "consumption": 873080
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6799048
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 6,
+    "consumption": 520868
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3648139
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4948118
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6129213
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 10,
+    "consumption": 7769896
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5854932
+  },
+  {
+    "office": 419,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4253398
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 1,
+    "consumption": 96628736
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 2,
+    "consumption": 42814263
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 3,
+    "consumption": 28810835
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 4,
+    "consumption": 32369415
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 5,
+    "consumption": 32112340
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 6,
+    "consumption": 12235757
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 7,
+    "consumption": 80491810
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 8,
+    "consumption": 20288655
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 9,
+    "consumption": 46209235
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 10,
+    "consumption": 31191028
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 11,
+    "consumption": 5288933
+  },
+  {
+    "office": 420,
+    "year": 2023,
+    "month": 12,
+    "consumption": 20533324
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 1,
+    "consumption": 64408605
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 2,
+    "consumption": 83180545
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 3,
+    "consumption": 76249945
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 4,
+    "consumption": 20478632
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 5,
+    "consumption": 88194554
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 6,
+    "consumption": 12657689
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 7,
+    "consumption": 77919953
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 8,
+    "consumption": 84532820
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 9,
+    "consumption": 89170981
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 10,
+    "consumption": 11864857
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 11,
+    "consumption": 69890612
+  },
+  {
+    "office": 421,
+    "year": 2023,
+    "month": 12,
+    "consumption": 87341080
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9428007
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 2,
+    "consumption": 1518139
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 3,
+    "consumption": 370491
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5613536
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4924239
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 6,
+    "consumption": 5515494
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 7,
+    "consumption": 1866120
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 8,
+    "consumption": 8594521
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 9,
+    "consumption": 532403
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1801520
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 11,
+    "consumption": 4536598
+  },
+  {
+    "office": 422,
+    "year": 2023,
+    "month": 12,
+    "consumption": 3662994
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 1,
+    "consumption": 749372
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 2,
+    "consumption": 864809
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 3,
+    "consumption": 582803
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 4,
+    "consumption": 130836
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 5,
+    "consumption": 22350
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 6,
+    "consumption": 720628
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 7,
+    "consumption": 92561
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 8,
+    "consumption": 981764
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 9,
+    "consumption": 89270
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 10,
+    "consumption": 805550
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 11,
+    "consumption": 561419
+  },
+  {
+    "office": 423,
+    "year": 2023,
+    "month": 12,
+    "consumption": 302641
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 1,
+    "consumption": 35875916
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2617400
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 3,
+    "consumption": 53327165
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 4,
+    "consumption": 18078333
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 5,
+    "consumption": 22902176
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 6,
+    "consumption": 45826085
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 7,
+    "consumption": 84808977
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 8,
+    "consumption": 86791612
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 9,
+    "consumption": 20287045
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 10,
+    "consumption": 88158568
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 11,
+    "consumption": 51313562
+  },
+  {
+    "office": 424,
+    "year": 2023,
+    "month": 12,
+    "consumption": 19173346
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 1,
+    "consumption": 685663
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 2,
+    "consumption": 273132
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 3,
+    "consumption": 697306
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 4,
+    "consumption": 194731
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 5,
+    "consumption": 773636
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 6,
+    "consumption": 520216
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 7,
+    "consumption": 69119
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 8,
+    "consumption": 610329
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 9,
+    "consumption": 504279
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 10,
+    "consumption": 557538
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 11,
+    "consumption": 931260
+  },
+  {
+    "office": 425,
+    "year": 2023,
+    "month": 12,
+    "consumption": 305458
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 1,
+    "consumption": 4742206
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 2,
+    "consumption": 3378506
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 3,
+    "consumption": 1334822
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 4,
+    "consumption": 3377987
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 5,
+    "consumption": 6739428
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 6,
+    "consumption": 1773417
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 7,
+    "consumption": 7601012
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 8,
+    "consumption": 351253
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6892323
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 10,
+    "consumption": 17563
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 11,
+    "consumption": 4886997
+  },
+  {
+    "office": 426,
+    "year": 2023,
+    "month": 12,
+    "consumption": 1352281
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7833630
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 2,
+    "consumption": 258853
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 3,
+    "consumption": 5286864
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7352661
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4338692
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 6,
+    "consumption": 3728494
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 7,
+    "consumption": 918975
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 8,
+    "consumption": 1627966
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6184308
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 10,
+    "consumption": 748477
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9731903
+  },
+  {
+    "office": 427,
+    "year": 2023,
+    "month": 12,
+    "consumption": 3116290
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 1,
+    "consumption": 18468
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 2,
+    "consumption": 314815
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 3,
+    "consumption": 873175
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 4,
+    "consumption": 107463
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 5,
+    "consumption": 33672
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 6,
+    "consumption": 592288
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 7,
+    "consumption": 382133
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 8,
+    "consumption": 366140
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 9,
+    "consumption": 49645
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 10,
+    "consumption": 59878
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 11,
+    "consumption": 319804
+  },
+  {
+    "office": 428,
+    "year": 2023,
+    "month": 12,
+    "consumption": 720666
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 1,
+    "consumption": 22396
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 2,
+    "consumption": 23071926
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 3,
+    "consumption": 78373570
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 4,
+    "consumption": 94903377
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 5,
+    "consumption": 85747300
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 6,
+    "consumption": 38046650
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 7,
+    "consumption": 48265543
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 8,
+    "consumption": 60159229
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 9,
+    "consumption": 11185621
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 10,
+    "consumption": 31185448
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 11,
+    "consumption": 21690028
+  },
+  {
+    "office": 429,
+    "year": 2023,
+    "month": 12,
+    "consumption": 87600691
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 1,
+    "consumption": 2316734
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 2,
+    "consumption": 9171383
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 3,
+    "consumption": 6302005
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 4,
+    "consumption": 4146875
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 5,
+    "consumption": 3366350
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 6,
+    "consumption": 8070245
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 7,
+    "consumption": 5177212
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 8,
+    "consumption": 7708905
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 9,
+    "consumption": 7859720
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 10,
+    "consumption": 7246566
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 11,
+    "consumption": 914785
+  },
+  {
+    "office": 430,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2816577
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7956852
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2322990
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2638831
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 4,
+    "consumption": 1899780
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8550060
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2423141
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 7,
+    "consumption": 1913196
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 8,
+    "consumption": 8318979
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 9,
+    "consumption": 4774921
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 10,
+    "consumption": 3121131
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9971998
+  },
+  {
+    "office": 431,
+    "year": 2023,
+    "month": 12,
+    "consumption": 5397741
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 1,
+    "consumption": 6694002
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 2,
+    "consumption": 4670525
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 3,
+    "consumption": 9687938
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 4,
+    "consumption": 2897651
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 5,
+    "consumption": 2154172
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 6,
+    "consumption": 6888474
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 7,
+    "consumption": 9276318
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 8,
+    "consumption": 4225428
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 9,
+    "consumption": 1978608
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 10,
+    "consumption": 5213358
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 11,
+    "consumption": 7404966
+  },
+  {
+    "office": 432,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4423012
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7879535
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8804606
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2909091
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 4,
+    "consumption": 489934
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7908781
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 6,
+    "consumption": 2654134
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 7,
+    "consumption": 3272678
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3546079
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 9,
+    "consumption": 2896227
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 10,
+    "consumption": 8356231
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9019135
+  },
+  {
+    "office": 433,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4748573
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 1,
+    "consumption": 90936664
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 2,
+    "consumption": 24799609
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 3,
+    "consumption": 51020397
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 4,
+    "consumption": 11316072
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 5,
+    "consumption": 7536200
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4650211
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 7,
+    "consumption": 32730211
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 8,
+    "consumption": 59280866
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 9,
+    "consumption": 44211668
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 10,
+    "consumption": 74543587
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 11,
+    "consumption": 56659825
+  },
+  {
+    "office": 434,
+    "year": 2023,
+    "month": 12,
+    "consumption": 90078067
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 1,
+    "consumption": 89745389
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 2,
+    "consumption": 12600226
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 3,
+    "consumption": 55881230
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 4,
+    "consumption": 81399181
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 5,
+    "consumption": 61324178
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 6,
+    "consumption": 67833269
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 7,
+    "consumption": 81377695
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 8,
+    "consumption": 82267648
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 9,
+    "consumption": 4308191
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 10,
+    "consumption": 19412891
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 11,
+    "consumption": 93332711
+  },
+  {
+    "office": 435,
+    "year": 2023,
+    "month": 12,
+    "consumption": 42165835
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 1,
+    "consumption": 691609
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 2,
+    "consumption": 993869
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 3,
+    "consumption": 287655
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 4,
+    "consumption": 516516
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 5,
+    "consumption": 283547
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 6,
+    "consumption": 741079
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 7,
+    "consumption": 169569
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 8,
+    "consumption": 179207
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 9,
+    "consumption": 803176
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 10,
+    "consumption": 370678
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 11,
+    "consumption": 778181
+  },
+  {
+    "office": 436,
+    "year": 2023,
+    "month": 12,
+    "consumption": 465779
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 1,
+    "consumption": 133162
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 2,
+    "consumption": 398852
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 3,
+    "consumption": 648430
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 4,
+    "consumption": 518475
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 5,
+    "consumption": 689804
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 6,
+    "consumption": 756776
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 7,
+    "consumption": 474340
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 8,
+    "consumption": 236058
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 9,
+    "consumption": 674167
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 10,
+    "consumption": 646929
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 11,
+    "consumption": 529369
+  },
+  {
+    "office": 437,
+    "year": 2023,
+    "month": 12,
+    "consumption": 488636
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 1,
+    "consumption": 2947667
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 2,
+    "consumption": 4963162
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 3,
+    "consumption": 6463898
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7410340
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 5,
+    "consumption": 2355675
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4589472
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 7,
+    "consumption": 945223
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 8,
+    "consumption": 6123448
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 9,
+    "consumption": 1748135
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 10,
+    "consumption": 9317957
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 11,
+    "consumption": 8824308
+  },
+  {
+    "office": 438,
+    "year": 2023,
+    "month": 12,
+    "consumption": 4118300
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 1,
+    "consumption": 561953
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 2,
+    "consumption": 8185226
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 3,
+    "consumption": 2527088
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 4,
+    "consumption": 3790269
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 5,
+    "consumption": 4714260
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 6,
+    "consumption": 1978928
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4448769
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 8,
+    "consumption": 7070235
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 9,
+    "consumption": 8215615
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 10,
+    "consumption": 3652612
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 11,
+    "consumption": 8751295
+  },
+  {
+    "office": 439,
+    "year": 2023,
+    "month": 12,
+    "consumption": 9888504
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 1,
+    "consumption": 44193658
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 2,
+    "consumption": 99052307
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 3,
+    "consumption": 54218
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 4,
+    "consumption": 162883
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 5,
+    "consumption": 15846667
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 6,
+    "consumption": 22347944
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 7,
+    "consumption": 90447627
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 8,
+    "consumption": 10610934
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 9,
+    "consumption": 81326085
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 10,
+    "consumption": 96899709
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 11,
+    "consumption": 54660967
+  },
+  {
+    "office": 440,
+    "year": 2023,
+    "month": 12,
+    "consumption": 63853466
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 1,
+    "consumption": 801719
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 2,
+    "consumption": 503564
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 3,
+    "consumption": 582910
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 4,
+    "consumption": 971415
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 5,
+    "consumption": 970185
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 6,
+    "consumption": 387296
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 7,
+    "consumption": 558448
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 8,
+    "consumption": 648703
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 9,
+    "consumption": 56539
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 10,
+    "consumption": 419500
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 11,
+    "consumption": 897349
+  },
+  {
+    "office": 441,
+    "year": 2023,
+    "month": 12,
+    "consumption": 468081
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 1,
+    "consumption": 19464
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 2,
+    "consumption": 279969
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 3,
+    "consumption": 564525
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 4,
+    "consumption": 198111
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 5,
+    "consumption": 297282
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 6,
+    "consumption": 247524
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 7,
+    "consumption": 465080
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 8,
+    "consumption": 782138
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 9,
+    "consumption": 397393
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 10,
+    "consumption": 950001
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 11,
+    "consumption": 402289
+  },
+  {
+    "office": 442,
+    "year": 2023,
+    "month": 12,
+    "consumption": 652342
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 1,
+    "consumption": 26511020
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 2,
+    "consumption": 50097173
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 3,
+    "consumption": 30604649
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8156553
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 5,
+    "consumption": 99421994
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 6,
+    "consumption": 53603140
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 7,
+    "consumption": 67209812
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 8,
+    "consumption": 19484259
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 9,
+    "consumption": 27900688
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 10,
+    "consumption": 99315508
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 11,
+    "consumption": 13341346
+  },
+  {
+    "office": 443,
+    "year": 2023,
+    "month": 12,
+    "consumption": 35812509
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 1,
+    "consumption": 9142682
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 2,
+    "consumption": 5324113
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 3,
+    "consumption": 7581211
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5678540
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 5,
+    "consumption": 912112
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 6,
+    "consumption": 4464676
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 7,
+    "consumption": 675227
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 8,
+    "consumption": 6448649
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 9,
+    "consumption": 1476400
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 10,
+    "consumption": 8936402
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9023386
+  },
+  {
+    "office": 444,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2002989
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 1,
+    "consumption": 49376262
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 2,
+    "consumption": 23417942
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 3,
+    "consumption": 63264744
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 4,
+    "consumption": 70841628
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 5,
+    "consumption": 51580153
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 6,
+    "consumption": 75865523
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 7,
+    "consumption": 56461162
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 8,
+    "consumption": 6772294
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 9,
+    "consumption": 26505911
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 10,
+    "consumption": 33077342
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 11,
+    "consumption": 77544807
+  },
+  {
+    "office": 445,
+    "year": 2023,
+    "month": 12,
+    "consumption": 82617905
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 1,
+    "consumption": 7691670
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 2,
+    "consumption": 9279704
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 3,
+    "consumption": 6436216
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 4,
+    "consumption": 5198720
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 5,
+    "consumption": 8711890
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 6,
+    "consumption": 7234914
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 7,
+    "consumption": 5623257
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3061068
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 9,
+    "consumption": 2960952
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 10,
+    "consumption": 9404796
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9603451
+  },
+  {
+    "office": 446,
+    "year": 2023,
+    "month": 12,
+    "consumption": 3084722
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 1,
+    "consumption": 818693
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 2,
+    "consumption": 382230
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 3,
+    "consumption": 89283
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 4,
+    "consumption": 693520
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 5,
+    "consumption": 267605
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 6,
+    "consumption": 684298
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 7,
+    "consumption": 130204
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 8,
+    "consumption": 426063
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 9,
+    "consumption": 812612
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 10,
+    "consumption": 285446
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 11,
+    "consumption": 260281
+  },
+  {
+    "office": 447,
+    "year": 2023,
+    "month": 12,
+    "consumption": 499343
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 1,
+    "consumption": 6077114
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 2,
+    "consumption": 2893397
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 3,
+    "consumption": 703655
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 4,
+    "consumption": 8793754
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 5,
+    "consumption": 9722200
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 6,
+    "consumption": 9983055
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 7,
+    "consumption": 7702045
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 8,
+    "consumption": 1958105
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 9,
+    "consumption": 6963535
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 10,
+    "consumption": 1112542
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 11,
+    "consumption": 9302527
+  },
+  {
+    "office": 448,
+    "year": 2023,
+    "month": 12,
+    "consumption": 1367564
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 1,
+    "consumption": 15723645
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 2,
+    "consumption": 41700005
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 3,
+    "consumption": 30981959
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 4,
+    "consumption": 52670405
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 5,
+    "consumption": 5803391
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 6,
+    "consumption": 13384128
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 7,
+    "consumption": 50611757
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 8,
+    "consumption": 87383769
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 9,
+    "consumption": 51141732
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 10,
+    "consumption": 86865079
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 11,
+    "consumption": 61373072
+  },
+  {
+    "office": 449,
+    "year": 2023,
+    "month": 12,
+    "consumption": 91983608
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 1,
+    "consumption": 3836651
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 2,
+    "consumption": 7176329
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 3,
+    "consumption": 792904
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 4,
+    "consumption": 7666098
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 5,
+    "consumption": 1404645
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 6,
+    "consumption": 1101286
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 7,
+    "consumption": 4138179
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 8,
+    "consumption": 3255148
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 9,
+    "consumption": 5520082
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 10,
+    "consumption": 2282943
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 11,
+    "consumption": 706632
+  },
+  {
+    "office": 450,
+    "year": 2023,
+    "month": 12,
+    "consumption": 2722643
+  }
+]

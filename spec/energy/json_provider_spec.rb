@@ -1,17 +1,17 @@
 # frozen_string_literal: true
 
 require 'rspec'
-require_relative '../../lib/energy/json_consumption_provider'
+require_relative '../../lib/energy/json_consumptions_provider'
 
-RSpec.describe JsonConsumptionProvider do
+RSpec.describe JsonConsumptionsProvider do
     it "should read all records in file" do
-        provider = JsonConsumptionProvider.new
+        provider = JsonConsumptionsProvider.new
         consumptions = provider.from_file("example.json")
         expect(consumptions.size).to eq(12)
     end
 
     it "should read data in first record" do
-        provider = JsonConsumptionProvider.new
+        provider = JsonConsumptionsProvider.new
         consumptions = provider.from_file("example.json")
         expected = Consumption.new
         expected.office = 1
@@ -23,7 +23,7 @@ RSpec.describe JsonConsumptionProvider do
     end
 
     it "should read data in last record" do
-        provider = JsonConsumptionProvider.new
+        provider = JsonConsumptionsProvider.new
         consumptions = provider.from_file("example.json")
         expected = Consumption.new
         expected.office = 1

@@ -5,10 +5,11 @@ require 'json'
 ConsumptionRow = Struct.new(:office, :year, :month, :consumption)
 
 class DataGenerator
-  def initialize(offices, years, file_name)
+  def initialize(offices, years, file_name, starting_office = 1)
     @offices = offices
     @years = years
     @file_name = file_name
+    @starting_office = starting_office
   end
 
   def generate
@@ -16,7 +17,9 @@ class DataGenerator
 
     starting_year = 2023 - @years + 1
 
-    (1..@offices).each do |office|
+    first_office = @starting_office
+    last_office = @offices + @starting_office-1
+    (first_office..last_office).each do |office|
       max_consumption = [999_999, 9_999_999, 99_999_999].sample
       (starting_year..2023).each do |year_number|
         (1..12).each do |month|
@@ -59,5 +62,5 @@ end
 
 
 
-g = DataGenerator.new(1, 1, "another")
+g = DataGenerator.new(150, 1, "sample_2", 301)
 g.generate

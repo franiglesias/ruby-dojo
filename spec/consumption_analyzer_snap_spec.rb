@@ -14,6 +14,14 @@ RSpec.describe 'Consumer Analyzer' do
             expect(result).to match_snapshot('default_snapshot')
         end
     end
+
+    context "Two sources" do
+        it "should generate mixed report" do
+            a = ConsumptionAnalyzer.new
+            result = capture_stdout {a.execute( 1.4, 'sample.csv', 'sample_2.json')}
+            expect(result).to match_snapshot('two_sources')
+        end
+    end
 end
 
 def capture_stdout

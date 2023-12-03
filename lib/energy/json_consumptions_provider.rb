@@ -2,7 +2,7 @@
 require 'json'
 require_relative 'consumption_analyzer'
 
-class JsonConsumptionProvider
+class JsonConsumptionsProvider
     def from_file(filename)
         f = File.new(filename, "r")
         raw = f.read

@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+require_relative 'json_consumptions_provider'
+require_relative 'csv_consumptions_provider'
 
 class ConsumptionsProvider
     def initialize
@@ -16,6 +18,10 @@ class ConsumptionsProvider
         extension = File.extname(file_name)
         if extension == ".csv"
             provider = CsvConsumptionsProvider.new
+            return provider.from_file(file_name)
+        end
+        if extension == ".json"
+            provider = JsonConsumptionsProvider.new
             return provider.from_file(file_name)
         end
         raise NotImplementedError.new, "#{extension} file support not implemented"
